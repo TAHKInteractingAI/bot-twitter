@@ -16,3 +16,4 @@ Enter the rows you would like to run. For example, from 2nd to 4th. You are reco
 5. Once you run twitter.exe, the chrome browser will appear. You have 90 seconds to enter your twitter credentials and get logged in manually. 
 
 6. After the 90 seconds, the programme will automatically follow the twitter profile and tweet at the person with the content input.
+
