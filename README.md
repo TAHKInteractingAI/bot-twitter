@@ -9,9 +9,9 @@ Enter the URL of the twitter accounts you would like to follow and the content o
 
 2. Run twitter.exe located in the same folder. 
 
-3.  ![img](image-1.png)
+![img](image-1.png)
 
-Enter the rows you would like to run. For example, from 2nd to 4th. You are recommended to run it in batches to prevent getting banned by twitter. 
+3. Enter the rows you would like to run. For example, from 2nd to 4th with reference to the excel sheet. You are recommended to run it in batches to prevent getting banned by twitter. 
 
 5. Once you run twitter.exe, the chrome browser will appear. You have 90 seconds to enter your twitter credentials and get logged in manually. 
 
