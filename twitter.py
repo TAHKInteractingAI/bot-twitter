@@ -21,7 +21,7 @@ def login():
     driver.get("https://twitter.com/login")
     log('Program started')
     log('Twitter opened')
-    time.sleep(20)
+    time.sleep(60)
     log("Logged in!")
     
 
