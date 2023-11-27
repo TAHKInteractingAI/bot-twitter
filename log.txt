@@ -1,1 +1,253 @@
 
+2023.11.27 10:31:16 ➾ Program started
+2023.11.27 10:31:16 ➾ Twitter opened
+2023.11.27 10:32:47 ➾ Logged in!
+2023.11.27 10:32:47 ➾ Visiting 0 profiles.
+2023.11.27 10:33:35 ➾ Program started
+2023.11.27 10:33:35 ➾ Twitter opened
+2023.11.27 10:35:05 ➾ Logged in!
+2023.11.27 10:35:05 ➾ Visiting 3 profiles.
+2023.11.27 10:35:11 ➾ Visited profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:35:16 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:35:23 ➾ Visited profile: https://twitter.com/YieHsin
+2023.11.27 10:35:27 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2023.11.27 10:35:35 ➾ Visited profile: https://twitter.com/JamesPGorman1
+2023.11.27 10:35:39 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2023.11.27 10:40:34 ➾ Program started
+2023.11.27 10:40:34 ➾ Twitter opened
+2023.11.27 10:42:04 ➾ Logged in!
+2023.11.27 10:42:04 ➾ Visiting 2 profiles.
+2023.11.27 10:42:10 ➾ Visited profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:42:13 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:42:21 ➾ Visited profile: https://twitter.com/YieHsin
+2023.11.27 10:42:23 ➾ Followed: https://twitter.com/YieHsin
+2023.11.27 10:42:25 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2023.11.27 10:50:12 ➾ Program started
+2023.11.27 10:50:12 ➾ Twitter opened
+2023.11.27 10:50:27 ➾ Logged in!
+2023.11.27 10:50:28 ➾ Visiting 2 profiles.
+2023.11.27 10:50:34 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:51:27 ➾ Program started
+2023.11.27 10:51:27 ➾ Twitter opened
+2023.11.27 10:51:57 ➾ Logged in!
+2023.11.27 10:51:58 ➾ Visiting 3 profiles.
+2023.11.27 10:52:29 ➾ Program started
+2023.11.27 10:52:29 ➾ Twitter opened
+2023.11.27 10:52:59 ➾ Logged in!
+2023.11.27 10:52:59 ➾ Visiting 3 profiles.
+2023.11.27 10:54:05 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:54:09 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:54:28 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2023.11.27 11:00:45 ➾ Program started
+2023.11.27 11:00:45 ➾ Twitter opened
+2023.11.27 11:01:52 ➾ Program started
+2023.11.27 11:01:52 ➾ Twitter opened
+2023.11.27 11:03:22 ➾ Logged in!
+2023.11.27 11:03:23 ➾ Visiting 3 profiles.
+2023.11.27 11:03:30 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.27 11:03:35 ➾ Tweeted at profile: https://twitter.com/larryfink?lang=en
+2023.11.27 11:03:45 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.27 11:03:49 ➾ Tweeted at profile: https://twitter.com/YieHsin
+2023.11.27 11:03:58 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.27 11:03:58 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2023.11.27 22:11:35 ➾ Program started
+2023.11.27 22:11:35 ➾ Twitter opened
+2023.11.27 22:13:05 ➾ Logged in!
+2023.11.27 22:13:06 ➾ Tweeting
+2023.11.27 22:13:13 ➾ Failed to tweet
+2023.11.27 22:13:23 ➾ Failed to tweet
+2023.11.27 22:13:32 ➾ Failed to tweet
+2023.11.27 22:24:39 ➾ Program started
+2023.11.27 22:24:39 ➾ Twitter opened
+2023.11.27 22:25:13 ➾ Program started
+2023.11.27 22:25:13 ➾ Twitter opened
+2023.11.27 22:25:18 ➾ Logged in!
+2023.11.27 22:29:02 ➾ Program started
+2023.11.27 22:29:02 ➾ Twitter opened
+2023.11.27 22:29:07 ➾ Logged in!
+2023.11.27 22:29:44 ➾ Program started
+2023.11.27 22:29:44 ➾ Twitter opened
+2023.11.27 22:29:49 ➾ Logged in!
+2023.11.27 22:32:18 ➾ Program started
+2023.11.27 22:32:18 ➾ Twitter opened
+2023.11.27 22:32:23 ➾ Logged in!
+2023.11.27 22:33:43 ➾ Program started
+2023.11.27 22:33:43 ➾ Twitter opened
+2023.11.27 22:33:48 ➾ Logged in!
+2023.11.27 22:35:53 ➾ Program started
+2023.11.27 22:35:53 ➾ Twitter opened
+2023.11.27 22:35:58 ➾ Logged in!
+2023.11.27 22:39:32 ➾ Program started
+2023.11.27 22:39:32 ➾ Twitter opened
+2023.11.27 22:39:37 ➾ Logged in!
+2023.11.27 22:42:56 ➾ Program started
+2023.11.27 22:42:56 ➾ Twitter opened
+2023.11.27 22:43:01 ➾ Logged in!
+2023.11.27 22:47:19 ➾ Program started
+2023.11.27 22:47:19 ➾ Twitter opened
+2023.11.27 22:47:24 ➾ Logged in!
+2023.11.27 22:47:52 ➾ Program started
+2023.11.27 22:47:52 ➾ Twitter opened
+2023.11.27 22:47:57 ➾ Logged in!
+2023.11.27 23:06:20 ➾ Program started
+2023.11.27 23:06:20 ➾ Twitter opened
+2023.11.27 23:06:25 ➾ Logged in!
+2023.11.27 23:08:17 ➾ Program started
+2023.11.27 23:08:17 ➾ Twitter opened
+2023.11.27 23:08:22 ➾ Logged in!
+2023.11.27 23:12:18 ➾ Program started
+2023.11.27 23:12:18 ➾ Twitter opened
+2023.11.27 23:14:33 ➾ Program started
+2023.11.27 23:14:33 ➾ Twitter opened
+2023.11.27 23:15:23 ➾ Program started
+2023.11.27 23:15:23 ➾ Twitter opened
+2023.11.27 23:19:53 ➾ Program started
+2023.11.27 23:19:53 ➾ Twitter opened
+2023.11.27 23:27:08 ➾ Program started
+2023.11.27 23:27:08 ➾ Twitter opened
+2023.11.27 23:30:29 ➾ Program started
+2023.11.27 23:30:29 ➾ Twitter opened
+2023.11.27 23:31:47 ➾ Program started
+2023.11.27 23:31:47 ➾ Twitter opened
+2023.11.27 23:33:23 ➾ Program started
+2023.11.27 23:33:23 ➾ Twitter opened
+2023.11.27 23:36:51 ➾ Program started
+2023.11.27 23:36:51 ➾ Twitter opened
+2023.11.27 23:39:25 ➾ Program started
+2023.11.27 23:39:25 ➾ Twitter opened
+2023.11.27 23:39:32 ➾ Program started
+2023.11.27 23:39:32 ➾ Twitter opened
+2023.11.27 23:39:41 ➾ Program started
+2023.11.27 23:39:41 ➾ Twitter opened
+2023.11.27 23:40:35 ➾ Program started
+2023.11.27 23:40:35 ➾ Twitter opened
+2023.11.27 23:40:42 ➾ Program started
+2023.11.27 23:40:42 ➾ Twitter opened
+2023.11.27 23:41:23 ➾ Program started
+2023.11.27 23:41:23 ➾ Twitter opened
+2023.11.27 23:44:13 ➾ Program started
+2023.11.27 23:44:13 ➾ Twitter opened
+2023.11.27 23:44:37 ➾ Program started
+2023.11.27 23:44:37 ➾ Twitter opened
+2023.11.27 23:46:51 ➾ Program started
+2023.11.27 23:46:51 ➾ Twitter opened
+2023.11.27 23:47:43 ➾ Program started
+2023.11.27 23:47:43 ➾ Twitter opened
+2023.11.27 23:50:17 ➾ Program started
+2023.11.27 23:50:17 ➾ Twitter opened
+2023.11.27 23:51:07 ➾ Program started
+2023.11.27 23:51:07 ➾ Twitter opened
+2023.11.27 23:53:35 ➾ Program started
+2023.11.27 23:53:35 ➾ Twitter opened
+2023.11.27 23:55:11 ➾ Program started
+2023.11.27 23:55:11 ➾ Twitter opened
+2023.11.28 00:08:43 ➾ Program started
+2023.11.28 00:08:43 ➾ Twitter opened
+2023.11.28 00:08:48 ➾ Logged in!
+2023.11.28 00:12:13 ➾ Program started
+2023.11.28 00:12:13 ➾ Twitter opened
+2023.11.28 00:13:43 ➾ Logged in!
+2023.11.28 00:13:44 ➾ Visiting 0 profiles.
+2023.11.28 00:14:19 ➾ Program started
+2023.11.28 00:14:19 ➾ Twitter opened
+2023.11.28 00:14:44 ➾ Logged in!
+2023.11.28 00:14:45 ➾ Visiting 0 profiles.
+2023.11.28 00:15:37 ➾ Program started
+2023.11.28 00:15:37 ➾ Twitter opened
+2023.11.28 00:16:01 ➾ Logged in!
+2023.11.28 00:16:02 ➾ Visiting 0 profiles.
+2023.11.28 00:16:43 ➾ Program started
+2023.11.28 00:16:43 ➾ Twitter opened
+2023.11.28 00:16:55 ➾ Program started
+2023.11.28 00:16:55 ➾ Twitter opened
+2023.11.28 00:17:24 ➾ Logged in!
+2023.11.28 00:17:25 ➾ Visiting 2 profiles.
+2023.11.28 00:17:31 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:17:36 ➾ Tweeted at profile: https://twitter.com/YieHsin
+2023.11.28 00:17:45 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:17:49 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:19:05 ➾ Program started
+2023.11.28 00:19:05 ➾ Twitter opened
+2023.11.28 00:19:27 ➾ Logged in!
+2023.11.28 00:19:28 ➾ Visiting 3 profiles.
+2023.11.28 00:19:35 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:19:45 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:19:55 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:22:46 ➾ Program started
+2023.11.28 00:22:46 ➾ Twitter opened
+2023.11.28 00:27:04 ➾ Program started
+2023.11.28 00:27:04 ➾ Twitter opened
+2023.11.28 00:27:26 ➾ Logged in!
+2023.11.28 00:27:28 ➾ Visiting 3 profiles.
+2023.11.28 00:27:32 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:27:40 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:27:47 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:29:13 ➾ Program started
+2023.11.28 00:29:13 ➾ Twitter opened
+2023.11.28 00:29:31 ➾ Logged in!
+2023.11.28 00:29:32 ➾ Visiting 3 profiles.
+2023.11.28 00:29:37 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:29:45 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:29:48 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:31:38 ➾ Program started
+2023.11.28 00:31:38 ➾ Twitter opened
+2023.11.28 00:32:05 ➾ Logged in!
+2023.11.28 00:32:06 ➾ Visiting 3 profiles.
+2023.11.28 00:32:10 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:32:14 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:32:18 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:32:27 ➾ Program started
+2023.11.28 00:32:27 ➾ Twitter opened
+2023.11.28 00:32:52 ➾ Logged in!
+2023.11.28 00:32:53 ➾ Visiting 3 profiles.
+2023.11.28 00:32:57 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:33:02 ➾ Tweeted at profile: https://twitter.com/larryfink?lang=en : example1
+2023.11.28 00:33:09 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:33:14 ➾ Tweeted at profile: https://twitter.com/YieHsin : example2
+2023.11.28 00:33:20 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:33:25 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : example3
+2023.11.28 00:35:07 ➾ Program started
+2023.11.28 00:35:07 ➾ Twitter opened
+2023.11.28 00:35:39 ➾ Logged in!
+2023.11.28 00:35:40 ➾ Tweeting
+2023.11.28 00:35:44 ➾ Failed to tweet
+2023.11.28 00:35:52 ➾ Failed to tweet
+2023.11.28 00:36:00 ➾ Failed to tweet
+2023.11.28 00:37:18 ➾ Program started
+2023.11.28 00:37:18 ➾ Twitter opened
+2023.11.28 00:37:33 ➾ Logged in!
+2023.11.28 00:37:35 ➾ Tweeting
+2023.11.28 00:37:40 ➾ Failed to tweet
+2023.11.28 00:37:47 ➾ Failed to tweet
+2023.11.28 00:37:50 ➾ Failed to tweet
+2023.11.28 00:38:17 ➾ Program started
+2023.11.28 00:38:17 ➾ Twitter opened
+2023.11.28 00:38:44 ➾ Logged in!
+2023.11.28 00:38:45 ➾ Tweeting
+2023.11.28 00:38:49 ➾ Failed to tweet
+2023.11.28 00:38:57 ➾ Failed to tweet
+2023.11.28 00:39:04 ➾ Failed to tweet
+2023.11.28 00:40:42 ➾ Program started
+2023.11.28 00:40:42 ➾ Twitter opened
+2023.11.28 00:40:58 ➾ Logged in!
+2023.11.28 00:40:58 ➾ Tweeting
+2023.11.28 00:41:03 ➾ Failed to tweet
+2023.11.28 00:41:11 ➾ Failed to tweet
+2023.11.28 00:41:58 ➾ Program started
+2023.11.28 00:41:58 ➾ Twitter opened
+2023.11.28 00:42:15 ➾ Logged in!
+2023.11.28 00:42:15 ➾ Tweeting
+2023.11.28 00:42:21 ➾ Failed to tweet
+2023.11.28 00:42:25 ➾ Failed to tweet
+2023.11.28 00:44:13 ➾ Program started
+2023.11.28 00:44:13 ➾ Twitter opened
+2023.11.28 00:44:27 ➾ Logged in!
+2023.11.28 00:44:29 ➾ Tweeting
+2023.11.28 00:44:34 ➾ Failed to tweet
+2023.11.28 00:44:38 ➾ Failed to tweet
+2023.11.28 00:45:30 ➾ Program started
+2023.11.28 00:45:30 ➾ Twitter opened
+2023.11.28 00:45:49 ➾ Logged in!
+2023.11.28 00:45:50 ➾ Tweeting
+2023.11.28 00:45:56 ➾ Tweeted : example5
+2023.11.28 00:46:06 ➾ Tweeted : example6

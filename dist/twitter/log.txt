@@ -1,7 +1,10 @@
-2023.07.11 23:26:29 ➾ Program started
-2023.07.11 23:26:29 ➾ Twitter opened
-2023.07.11 23:27:59 ➾ Logged in!
-2023.07.11 23:27:59 ➾ Tweeting
-2023.07.11 23:28:07 ➾ Tweeted
-2023.07.11 23:28:18 ➾ Tweeted
-2023.07.11 23:28:30 ➾ Tweeted
+2023.11.28 00:53:34 ➾ Program started
+2023.11.28 00:53:34 ➾ Twitter opened
+2023.11.28 00:53:42 ➾ Failed. Try again
+2023.11.28 00:54:00 ➾ Program started
+2023.11.28 00:54:00 ➾ Twitter opened
+2023.11.28 00:54:18 ➾ Logged in!
+2023.11.28 00:54:19 ➾ Tweeting
+2023.11.28 00:54:26 ➾ Tweeted : example4
+2023.11.28 00:54:36 ➾ Tweeted : example5
+2023.11.28 00:54:46 ➾ Tweeted : example6
