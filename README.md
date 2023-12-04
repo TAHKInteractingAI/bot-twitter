@@ -1,4 +1,4 @@
-# bot_follow_post_twitter-server-interface
+# bot_follow_and_post_twitter-server-interface
 
 How to use the Bot:
 
