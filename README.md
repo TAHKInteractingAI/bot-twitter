@@ -1,5 +1,12 @@
 # bot_follow_and_post_twitter-server-interface
 
+Set up before using:
+
+1: pip install pandas
+2: pip install openpyxl
+3: make sure you have selenium and selenium webdriver
+
+
 How to use the Bot:
 
 1. Navigate from dist to the twitter folder. Open input.xlsx. 

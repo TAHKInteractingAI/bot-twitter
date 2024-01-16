@@ -251,3 +251,430 @@
 2023.11.28 00:45:50 ➾ Tweeting
 2023.11.28 00:45:56 ➾ Tweeted : example5
 2023.11.28 00:46:06 ➾ Tweeted : example6
+2024.01.13 08:31:36 ➾ Program started
+2024.01.13 08:31:36 ➾ Twitter opened
+2024.01.13 08:33:06 ➾ Failed. Try again
+2024.01.13 08:34:45 ➾ Program started
+2024.01.13 08:34:45 ➾ Twitter opened
+2024.01.13 08:35:31 ➾ Failed. Try again
+2024.01.13 08:36:46 ➾ Program started
+2024.01.13 08:36:46 ➾ Twitter opened
+2024.01.13 08:37:29 ➾ Failed. Try again
+2024.01.13 08:39:21 ➾ Program started
+2024.01.13 08:39:21 ➾ Twitter opened
+2024.01.13 08:40:51 ➾ Failed. Try again
+2024.01.13 08:41:23 ➾ Program started
+2024.01.13 08:41:23 ➾ Twitter opened
+2024.01.13 08:42:53 ➾ Failed. Try again
+2024.01.13 08:45:26 ➾ Program started
+2024.01.13 08:45:26 ➾ Twitter opened
+2024.01.13 08:45:51 ➾ Logged in!
+2024.01.13 08:45:51 ➾ Failed. Try again
+2024.01.13 08:46:50 ➾ Program started
+2024.01.13 08:46:50 ➾ Twitter opened
+2024.01.13 08:47:47 ➾ Logged in!
+2024.01.13 08:47:47 ➾ Failed. Try again
+2024.01.13 08:47:54 ➾ Program started
+2024.01.13 08:47:54 ➾ Twitter opened
+2024.01.13 08:48:44 ➾ Logged in!
+2024.01.13 08:48:44 ➾ Failed. Try again
+2024.01.13 08:52:59 ➾ Program started
+2024.01.13 08:52:59 ➾ Twitter opened
+2024.01.13 08:53:33 ➾ Logged in!
+2024.01.13 08:54:20 ➾ Program started
+2024.01.13 08:54:20 ➾ Twitter opened
+2024.01.13 08:54:57 ➾ Logged in!
+2024.01.13 08:54:58 ➾ Visiting 3 profiles.
+2024.01.13 08:55:02 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.13 08:55:08 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.13 08:55:14 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2024.01.13 08:55:39 ➾ Program started
+2024.01.13 08:55:39 ➾ Twitter opened
+2024.01.13 08:56:19 ➾ Logged in!
+2024.01.13 08:56:19 ➾ Visiting 3 profiles.
+2024.01.13 08:56:23 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.13 08:56:27 ➾ Tweeted at profile: https://twitter.com/YieHsin : example2
+2024.01.13 08:56:34 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.13 08:56:37 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.13 08:56:40 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2024.01.13 09:01:51 ➾ Program started
+2024.01.13 09:01:51 ➾ Twitter opened
+2024.01.13 09:02:23 ➾ Logged in!
+2024.01.13 09:02:23 ➾ Tweeting
+2024.01.13 09:02:29 ➾ Tweeted : example5
+2024.01.13 09:02:39 ➾ Tweeted : example6
+2024.01.13 09:02:48 ➾ Tweeted : example4
+2024.01.13 09:42:49 ➾ Program started
+2024.01.13 09:42:49 ➾ Twitter opened
+2024.01.13 09:43:25 ➾ Logged in!
+2024.01.13 09:43:25 ➾ Failed. Try again
+2024.01.13 09:44:15 ➾ Program started
+2024.01.13 09:44:15 ➾ Twitter opened
+2024.01.13 09:44:59 ➾ Logged in!
+2024.01.13 09:44:59 ➾ Failed. Try again
+2024.01.13 09:54:05 ➾ Program started
+2024.01.13 09:54:05 ➾ Twitter opened
+2024.01.13 09:54:33 ➾ Logged in!
+2024.01.13 09:54:33 ➾ Failed. Try again
+2024.01.13 09:56:11 ➾ Program started
+2024.01.13 09:56:11 ➾ Twitter opened
+2024.01.13 09:56:37 ➾ Logged in!
+2024.01.13 09:56:37 ➾ Failed. Try again
+2024.01.13 09:58:19 ➾ Program started
+2024.01.13 09:58:19 ➾ Twitter opened
+2024.01.13 09:59:11 ➾ Logged in!
+2024.01.13 09:59:11 ➾ Failed. Try again
+2024.01.13 10:00:15 ➾ Program started
+2024.01.13 10:00:15 ➾ Twitter opened
+2024.01.13 10:00:46 ➾ Logged in!
+2024.01.13 10:00:46 ➾ Failed. Try again
+2024.01.13 10:03:54 ➾ Program started
+2024.01.13 10:03:54 ➾ Twitter opened
+2024.01.13 10:04:00 ➾ Failed. Try again
+2024.01.13 10:04:22 ➾ Program started
+2024.01.13 10:04:22 ➾ Twitter opened
+2024.01.13 10:04:48 ➾ Logged in!
+2024.01.13 10:04:48 ➾ Tweeting
+2024.01.13 10:04:55 ➾ Failed to tweet
+2024.01.13 10:05:05 ➾ Failed to tweet
+2024.01.13 10:05:14 ➾ Failed to tweet
+2024.01.13 10:08:13 ➾ Program started
+2024.01.13 10:08:13 ➾ Twitter opened
+2024.01.13 10:08:41 ➾ Logged in!
+2024.01.13 10:08:41 ➾ Tweeting
+2024.01.13 10:08:49 ➾ Failed to tweet
+2024.01.13 10:08:58 ➾ Failed to tweet
+2024.01.13 10:09:08 ➾ Failed to tweet
+2024.01.13 10:11:19 ➾ Program started
+2024.01.13 10:11:19 ➾ Twitter opened
+2024.01.13 10:11:50 ➾ Logged in!
+2024.01.13 10:11:51 ➾ Tweeting
+2024.01.13 10:11:58 ➾ Failed to tweet
+2024.01.13 10:12:08 ➾ Failed to tweet
+2024.01.13 10:17:41 ➾ Program started
+2024.01.13 10:17:41 ➾ Twitter opened
+2024.01.13 10:18:19 ➾ Logged in!
+2024.01.13 10:18:19 ➾ Tweeting
+2024.01.13 10:18:27 ➾ Failed to tweet
+2024.01.13 10:18:36 ➾ Failed to tweet
+2024.01.13 10:18:46 ➾ Failed to tweet
+2024.01.13 10:22:20 ➾ Program started
+2024.01.13 10:22:20 ➾ Twitter opened
+2024.01.13 10:22:51 ➾ Logged in!
+2024.01.13 10:22:52 ➾ Tweeting
+2024.01.13 10:22:58 ➾ Failed to tweet
+2024.01.13 10:23:04 ➾ Failed to tweet
+2024.01.13 10:23:10 ➾ Failed to tweet
+2024.01.13 10:27:32 ➾ Program started
+2024.01.13 10:27:32 ➾ Twitter opened
+2024.01.13 10:27:53 ➾ Logged in!
+2024.01.13 10:27:53 ➾ Tweeting
+2024.01.13 10:28:09 ➾ Failed to tweet
+2024.01.13 10:28:26 ➾ Failed to tweet
+2024.01.13 10:28:43 ➾ Failed to tweet
+2024.01.13 10:29:00 ➾ Program started
+2024.01.13 10:29:00 ➾ Twitter opened
+2024.01.13 10:29:05 ➾ Failed. Try again
+2024.01.13 10:33:07 ➾ Program started
+2024.01.13 10:33:07 ➾ Twitter opened
+2024.01.13 10:33:36 ➾ Logged in!
+2024.01.13 10:33:36 ➾ Tweeting
+2024.01.13 10:33:48 ➾ Failed to tweet
+2024.01.13 10:33:59 ➾ Failed to tweet
+2024.01.13 10:34:11 ➾ Failed to tweet
+2024.01.13 10:36:24 ➾ Program started
+2024.01.13 10:36:24 ➾ Twitter opened
+2024.01.13 10:36:49 ➾ Logged in!
+2024.01.13 10:36:50 ➾ Tweeting
+2024.01.13 10:36:56 ➾ Failed to tweet
+2024.01.13 10:37:02 ➾ Failed to tweet
+2024.01.13 10:37:09 ➾ Failed to tweet
+2024.01.13 10:56:23 ➾ Program started
+2024.01.13 10:56:23 ➾ Twitter opened
+2024.01.13 10:56:48 ➾ Logged in!
+2024.01.13 10:56:48 ➾ Tweeting
+2024.01.13 10:57:05 ➾ Tweeted : example5
+2024.01.13 11:02:35 ➾ Program started
+2024.01.13 11:02:35 ➾ Twitter opened
+2024.01.13 11:03:05 ➾ Logged in!
+2024.01.13 11:03:05 ➾ Tweeting
+2024.01.13 11:03:12 ➾ Failed to tweet
+2024.01.13 11:03:24 ➾ Failed to tweet
+2024.01.13 11:03:37 ➾ Failed to tweet
+2024.01.16 08:19:06 ➾ Program started
+2024.01.16 08:19:06 ➾ Twitter opened
+2024.01.16 08:19:37 ➾ Logged in!
+2024.01.16 08:19:37 ➾ Tweeting
+2024.01.16 08:19:43 ➾ Failed to tweet
+2024.01.16 08:19:50 ➾ Failed to tweet
+2024.01.16 08:19:57 ➾ Failed to tweet
+2024.01.16 08:23:50 ➾ Program started
+2024.01.16 08:23:50 ➾ Twitter opened
+2024.01.16 08:24:15 ➾ Logged in!
+2024.01.16 08:24:15 ➾ Tweeting
+2024.01.16 08:24:21 ➾ Failed to tweet
+2024.01.16 08:24:28 ➾ Failed to tweet
+2024.01.16 08:24:36 ➾ Failed to tweet
+2024.01.16 08:24:45 ➾ Program started
+2024.01.16 08:24:45 ➾ Twitter opened
+2024.01.16 08:31:17 ➾ Program started
+2024.01.16 08:31:17 ➾ Twitter opened
+2024.01.16 08:31:33 ➾ Logged in!
+2024.01.16 08:31:33 ➾ Tweeting
+2024.01.16 08:31:37 ➾ Failed to tweet
+2024.01.16 08:31:41 ➾ Failed to tweet
+2024.01.16 08:31:46 ➾ Failed to tweet
+2024.01.16 08:33:53 ➾ Program started
+2024.01.16 08:33:53 ➾ Twitter opened
+2024.01.16 08:34:18 ➾ Logged in!
+2024.01.16 08:34:18 ➾ Tweeting
+2024.01.16 08:34:22 ➾ Failed to tweet
+2024.01.16 08:34:27 ➾ Failed to tweet
+2024.01.16 08:34:31 ➾ Failed to tweet
+2024.01.16 08:34:53 ➾ Program started
+2024.01.16 08:34:53 ➾ Twitter opened
+2024.01.16 08:35:22 ➾ Logged in!
+2024.01.16 08:35:23 ➾ Tweeting
+2024.01.16 08:35:29 ➾ Failed to tweet
+2024.01.16 08:58:44 ➾ Program started
+2024.01.16 08:58:44 ➾ Twitter opened
+2024.01.16 08:59:16 ➾ Logged in!
+2024.01.16 08:59:17 ➾ Tweeting
+2024.01.16 08:59:22 ➾ Failed to tweet
+2024.01.16 08:59:30 ➾ Failed to tweet
+2024.01.16 08:59:37 ➾ Failed to tweet
+2024.01.16 09:15:32 ➾ Program started
+2024.01.16 09:15:32 ➾ Twitter opened
+2024.01.16 09:15:58 ➾ Logged in!
+2024.01.16 09:15:58 ➾ Tweeting
+2024.01.16 09:16:04 ➾ Failed to tweet
+2024.01.16 09:16:11 ➾ Failed to tweet
+2024.01.16 09:18:51 ➾ Program started
+2024.01.16 09:18:51 ➾ Twitter opened
+2024.01.16 09:19:31 ➾ Logged in!
+2024.01.16 09:19:32 ➾ Tweeting
+2024.01.16 09:19:42 ➾ Failed to tweet
+2024.01.16 09:19:56 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:23:53 ➾ Program started
+2024.01.16 09:23:53 ➾ Twitter opened
+2024.01.16 09:24:16 ➾ Logged in!
+2024.01.16 09:24:16 ➾ Tweeting
+2024.01.16 09:24:27 ➾ Failed to tweet
+2024.01.16 09:24:40 ➾ Failed to tweet
+2024.01.16 09:24:52 ➾ Failed to tweet
+2024.01.16 09:29:17 ➾ Program started
+2024.01.16 09:29:17 ➾ Twitter opened
+2024.01.16 09:29:42 ➾ Logged in!
+2024.01.16 09:29:42 ➾ Tweeting
+2024.01.16 09:30:02 ➾ Failed to tweet
+2024.01.16 09:30:26 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:30:54 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:31:48 ➾ Program started
+2024.01.16 09:31:48 ➾ Twitter opened
+2024.01.16 09:32:13 ➾ Logged in!
+2024.01.16 09:32:14 ➾ Tweeting
+2024.01.16 09:33:05 ➾ Failed to tweet
+2024.01.16 09:36:02 ➾ Program started
+2024.01.16 09:36:02 ➾ Twitter opened
+2024.01.16 09:36:26 ➾ Logged in!
+2024.01.16 09:36:27 ➾ Tweeting
+2024.01.16 09:55:32 ➾ Program started
+2024.01.16 09:55:32 ➾ Twitter opened
+2024.01.16 09:55:56 ➾ Logged in!
+2024.01.16 09:55:56 ➾ Tweeting
+2024.01.16 09:56:06 ➾ Failed to tweet
+2024.01.16 09:56:21 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:56:39 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:00:22 ➾ Program started
+2024.01.16 10:00:22 ➾ Twitter opened
+2024.01.16 10:00:45 ➾ Logged in!
+2024.01.16 10:00:46 ➾ Tweeting
+2024.01.16 10:00:56 ➾ Failed to tweet
+2024.01.16 10:01:10 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:01:29 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:06:41 ➾ Program started
+2024.01.16 10:06:41 ➾ Twitter opened
+2024.01.16 10:07:49 ➾ Logged in!
+2024.01.16 10:07:50 ➾ Tweeting
+2024.01.16 10:07:59 ➾ Failed to tweet
+2024.01.16 10:08:09 ➾ Failed to tweet
+2024.01.16 10:08:20 ➾ Failed to tweet
+2024.01.16 10:15:46 ➾ Program started
+2024.01.16 10:15:46 ➾ Twitter opened
+2024.01.16 10:16:19 ➾ Logged in!
+2024.01.16 10:16:19 ➾ Tweeting
+2024.01.16 10:16:23 ➾ Failed to tweet
+2024.01.16 10:16:27 ➾ Failed to tweet
+2024.01.16 10:16:31 ➾ Failed to tweet
+2024.01.16 10:17:01 ➾ Program started
+2024.01.16 10:17:01 ➾ Twitter opened
+2024.01.16 10:17:31 ➾ Logged in!
+2024.01.16 10:17:31 ➾ Tweeting
+2024.01.16 10:17:41 ➾ Failed to tweet
+2024.01.16 10:17:55 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:18:13 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:25:30 ➾ Program started
+2024.01.16 10:25:30 ➾ Twitter opened
+2024.01.16 10:25:55 ➾ Logged in!
+2024.01.16 10:25:55 ➾ Tweeting
+2024.01.16 10:26:05 ➾ Failed to tweet
+2024.01.16 10:26:19 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:26:37 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:35:45 ➾ Program started
+2024.01.16 10:35:45 ➾ Twitter opened
+2024.01.16 10:36:07 ➾ Logged in!
+2024.01.16 10:36:07 ➾ Tweeting
+2024.01.16 10:36:18 ➾ Failed to tweet
+2024.01.16 10:40:16 ➾ Program started
+2024.01.16 10:40:16 ➾ Twitter opened
+2024.01.16 10:40:42 ➾ Logged in!
+2024.01.16 10:40:42 ➾ Tweeting
+2024.01.16 10:42:19 ➾ Program started
+2024.01.16 10:42:19 ➾ Twitter opened
+2024.01.16 10:42:46 ➾ Logged in!
+2024.01.16 10:42:46 ➾ Tweeting
+2024.01.16 10:42:56 ➾ Failed to tweet
+2024.01.16 10:43:11 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:43:28 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:53:13 ➾ Program started
+2024.01.16 10:53:13 ➾ Twitter opened
+2024.01.16 10:53:36 ➾ Logged in!
+2024.01.16 10:53:36 ➾ Tweeting
+2024.01.16 10:53:52 ➾ Failed to tweet
+2024.01.16 10:54:12 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:54:35 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:58:55 ➾ Program started
+2024.01.16 10:58:55 ➾ Twitter opened
+2024.01.16 10:59:31 ➾ Logged in!
+2024.01.16 10:59:32 ➾ Tweeting
+2024.01.16 10:59:54 ➾ Failed to tweet
+2024.01.16 11:00:22 ➾ Failed to tweet
+2024.01.16 11:00:51 ➾ Failed to tweet
+2024.01.16 11:04:24 ➾ Program started
+2024.01.16 11:04:24 ➾ Twitter opened
+2024.01.16 11:04:47 ➾ Logged in!
+2024.01.16 11:04:47 ➾ Tweeting
+2024.01.16 11:05:07 ➾ Failed to tweet
+2024.01.16 11:05:31 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:05:58 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:11:16 ➾ Program started
+2024.01.16 11:11:16 ➾ Twitter opened
+2024.01.16 11:11:35 ➾ Logged in!
+2024.01.16 11:11:35 ➾ Tweeting
+2024.01.16 11:11:55 ➾ Failed to tweet
+2024.01.16 11:12:49 ➾ Program started
+2024.01.16 11:12:49 ➾ Twitter opened
+2024.01.16 11:13:11 ➾ Logged in!
+2024.01.16 11:13:11 ➾ Tweeting
+2024.01.16 11:13:30 ➾ Failed to tweet
+2024.01.16 11:13:54 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:19:28 ➾ Program started
+2024.01.16 11:19:28 ➾ Twitter opened
+2024.01.16 11:19:49 ➾ Logged in!
+2024.01.16 11:19:50 ➾ Tweeting
+2024.01.16 11:20:12 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:20:38 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:21:03 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:27:41 ➾ Program started
+2024.01.16 11:27:41 ➾ Twitter opened
+2024.01.16 11:28:07 ➾ Logged in!
+2024.01.16 11:28:07 ➾ Visiting 2 profiles.
+2024.01.16 11:28:11 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:28:14 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:28:21 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:28:23 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:29:11 ➾ Program started
+2024.01.16 11:29:11 ➾ Twitter opened
+2024.01.16 11:29:32 ➾ Logged in!
+2024.01.16 11:29:32 ➾ Visiting 2 profiles.
+2024.01.16 11:29:37 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:29:39 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:29:46 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:29:48 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:30:33 ➾ Program started
+2024.01.16 11:30:33 ➾ Twitter opened
+2024.01.16 11:30:53 ➾ Logged in!
+2024.01.16 11:30:54 ➾ Visiting 2 profiles.
+2024.01.16 11:30:58 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:31:05 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 11:31:12 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:36:54 ➾ Program started
+2024.01.16 11:36:54 ➾ Twitter opened
+2024.01.16 11:36:55 ➾ Failed. Try again
+2024.01.16 11:37:04 ➾ Program started
+2024.01.16 11:37:04 ➾ Twitter opened
+2024.01.16 11:37:37 ➾ Logged in!
+2024.01.16 11:37:37 ➾ Visiting 2 profiles.
+2024.01.16 11:37:41 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:37:55 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:38:02 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:38:16 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:40:41 ➾ Program started
+2024.01.16 11:40:41 ➾ Twitter opened
+2024.01.16 11:41:12 ➾ Logged in!
+2024.01.16 11:41:12 ➾ Visiting 2 profiles.
+2024.01.16 11:41:16 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:45:02 ➾ Program started
+2024.01.16 11:45:02 ➾ Twitter opened
+2024.01.16 11:45:26 ➾ Logged in!
+2024.01.16 11:45:26 ➾ Visiting 2 profiles.
+2024.01.16 11:45:31 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:45:38 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:45:45 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:45:53 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:47:59 ➾ Program started
+2024.01.16 11:47:59 ➾ Twitter opened
+2024.01.16 11:48:20 ➾ Logged in!
+2024.01.16 11:48:20 ➾ Visiting 2 profiles.
+2024.01.16 11:48:24 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:48:42 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 11:48:49 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:55:00 ➾ Program started
+2024.01.16 11:55:00 ➾ Twitter opened
+2024.01.16 11:55:27 ➾ Logged in!
+2024.01.16 11:55:27 ➾ Visiting 2 profiles.
+2024.01.16 11:55:32 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:55:49 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 11:55:56 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:56:13 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 11:58:14 ➾ Program started
+2024.01.16 11:58:14 ➾ Twitter opened
+2024.01.16 11:58:34 ➾ Logged in!
+2024.01.16 11:58:34 ➾ Visiting 2 profiles.
+2024.01.16 11:58:38 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:58:46 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:58:53 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:59:01 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 13:38:39 ➾ Program started
+2024.01.16 13:38:39 ➾ Twitter opened
+2024.01.16 13:39:13 ➾ Logged in!
+2024.01.16 13:39:13 ➾ Tweeting
+2024.01.16 13:39:34 ➾ Tweeted : By @abc thank st pic ever
+#picture
+2024.01.16 13:39:57 ➾ Tweeted : By @abc thau for the best pic ever
+#picture
