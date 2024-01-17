@@ -678,3 +678,556 @@
 #picture
 2024.01.16 13:39:57 ➾ Tweeted : By @abc thau for the best pic ever
 #picture
+2024.01.16 13:57:15 ➾ Program started
+2024.01.16 13:57:15 ➾ Twitter opened
+2024.01.16 13:57:46 ➾ Logged in!
+2024.01.16 13:57:46 ➾ Failed. Try again
+2024.01.16 14:01:52 ➾ Program started
+2024.01.16 14:01:52 ➾ Twitter opened
+2024.01.16 14:02:15 ➾ Logged in!
+2024.01.16 14:02:15 ➾ Tweeting
+2024.01.16 14:02:36 ➾ Tweeted : By @abc thank st pic ever
+#picture
+2024.01.16 14:02:59 ➾ Tweeted : By @abc thau for the best pic ever
+#picture
+2024.01.16 14:11:10 ➾ Program started
+2024.01.16 14:11:10 ➾ Twitter opened
+2024.01.16 14:11:37 ➾ Logged in!
+2024.01.16 14:11:58 ➾ Program started
+2024.01.16 14:11:58 ➾ Twitter opened
+2024.01.16 14:12:20 ➾ Logged in!
+2024.01.16 14:12:50 ➾ Tweeting
+2024.01.16 14:13:10 ➾ Tweeted : By @abc thank st pic ever
+#picture
+2024.01.16 14:13:33 ➾ Tweeted : By @abc thau for the best pic ever
+#picture
+2024.01.16 14:15:49 ➾ Visiting 2 profiles.
+2024.01.16 14:15:53 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:16:11 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:16:18 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:16:35 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 14:18:12 ➾ Visiting 2 profiles.
+2024.01.16 14:18:17 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:18:21 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:23:11 ➾ Tweeting
+2024.01.16 14:23:31 ➾ Tweeted : By @laura thank st pic ever
+#picture
+2024.01.16 14:23:54 ➾ Tweeted : By @me thau for the best pic ever
+#picture
+2024.01.16 14:25:23 ➾ Program started
+2024.01.16 14:25:23 ➾ Twitter opened
+2024.01.16 14:25:49 ➾ Logged in!
+2024.01.16 14:25:56 ➾ Visiting 1 profiles.
+2024.01.16 14:26:01 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:26:18 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 14:34:19 ➾ Program started
+2024.01.16 14:34:19 ➾ Twitter opened
+2024.01.16 14:34:48 ➾ Logged in!
+2024.01.16 14:34:57 ➾ Visiting 2 profiles.
+2024.01.16 14:35:01 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:35:19 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:35:27 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:35:45 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 14:37:30 ➾ Visiting 2 profiles.
+2024.01.16 14:37:34 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.16 14:37:53 ➾ Tweeted at profile: https://twitter.com/ZenXHT : By @Alex thank you for the best pic ever
+#picture
+2024.01.16 14:38:00 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:38:18 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:52:29 ➾ Program started
+2024.01.16 14:52:29 ➾ Twitter opened
+2024.01.16 14:52:59 ➾ Logged in!
+2024.01.16 14:56:10 ➾ Tweeting
+2024.01.16 14:56:30 ➾ Tweeted : By @laura thank st pic ever
+#picture
+2024.01.16 14:56:53 ➾ Tweeted : By @me thau for the best pic ever
+#picture
+2024.01.16 14:57:32 ➾ Visiting 2 profiles.
+2024.01.16 14:57:36 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:57:54 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:58:01 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:58:19 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 15:21:00 ➾ Program started
+2024.01.16 15:21:00 ➾ Twitter opened
+2024.01.16 15:21:26 ➾ Logged in!
+2024.01.16 15:21:31 ➾ Tweeting
+2024.01.16 15:22:07 ➾ Program started
+2024.01.16 15:22:07 ➾ Twitter opened
+2024.01.16 15:22:29 ➾ Logged in!
+2024.01.16 15:22:46 ➾ Tweeting
+2024.01.16 15:23:06 ➾ Tweeted : By @laura thank st pic ever
+#picture
+2024.01.16 15:23:29 ➾ Tweeted : By @me thau for the best pic ever
+#picture
+2024.01.16 15:24:28 ➾ Tweeting
+2024.01.16 15:24:48 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 15:25:05 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 15:25:18 ➾ tweet element cant send key
+2024.01.16 15:25:24 ➾ Tweeted : Watchlist: #Injective  👀
+
+$42 is strong resistance for $INJ for over a week now.
+
+There's also a small trendline support forming on the 1 hour chart.
+
+Intraday traders, watch out!
+2024.01.16 15:27:41 ➾ Program started
+2024.01.16 15:27:41 ➾ Twitter opened
+2024.01.16 15:28:06 ➾ Logged in!
+2024.01.16 15:28:12 ➾ Tweeting
+2024.01.16 15:28:22 ➾ tweet element cant send key
+2024.01.16 15:28:28 ➾ Tweeted : Watchlist: #Injective  👀
+
+$42 is strong resistance for $INJ for over a week now.
+
+There's also a small trendline support forming on the 1 hour chart.
+
+Intraday traders, watch out!
+2024.01.16 15:34:17 ➾ Program started
+2024.01.16 15:34:17 ➾ Twitter opened
+2024.01.16 15:34:44 ➾ Logged in!
+2024.01.16 15:34:50 ➾ Tweeting
+2024.01.16 15:35:05 ➾ Failed to tweet
+2024.01.16 15:37:55 ➾ Program started
+2024.01.16 15:37:55 ➾ Twitter opened
+2024.01.16 15:38:15 ➾ Logged in!
+2024.01.16 15:38:19 ➾ Tweeting
+2024.01.16 15:38:23 ➾ tweet element cant send key
+2024.01.16 15:38:24 ➾ tweet element cant send key
+2024.01.16 15:38:28 ➾ tweet element cant send key
+2024.01.16 15:38:34 ➾ Failed to tweet
+2024.01.16 15:40:04 ➾ Program started
+2024.01.16 15:40:04 ➾ Twitter opened
+2024.01.16 15:40:35 ➾ Logged in!
+2024.01.16 15:40:45 ➾ Tweeting
+2024.01.16 15:40:54 ➾ tweet element cant send key
+2024.01.16 15:41:00 ➾ Tweeted : Watchlist: #Injective  👀
+
+$42 is strong resistance for $INJ for over a week now.
+
+There's also a small trendline support forming on the 1 hour chart.
+
+Intraday traders, watch out!
+2024.01.16 15:42:24 ➾ Program started
+2024.01.16 15:42:24 ➾ Twitter opened
+2024.01.16 15:42:54 ➾ Logged in!
+2024.01.16 15:43:01 ➾ Tweeting
+2024.01.16 15:43:06 ➾ tweet element cant send key
+2024.01.16 15:43:07 ➾ tweet element cant send key
+2024.01.16 15:43:11 ➾ tweet element cant send key
+2024.01.16 15:43:17 ➾ Failed to tweet
+2024.01.16 15:44:27 ➾ Program started
+2024.01.16 15:44:27 ➾ Twitter opened
+2024.01.16 15:44:49 ➾ Logged in!
+2024.01.16 15:44:53 ➾ Tweeting
+2024.01.16 15:44:57 ➾ tweet element cant send key
+2024.01.16 15:44:58 ➾ tweet element cant send key
+2024.01.16 15:45:02 ➾ tweet element cant send key
+2024.01.16 15:45:08 ➾ Failed to tweet
+2024.01.16 16:02:32 ➾ Program started
+2024.01.16 16:02:32 ➾ Twitter opened
+2024.01.16 16:03:01 ➾ Logged in!
+2024.01.16 16:03:08 ➾ Tweeting
+2024.01.16 16:03:12 ➾ Failed to tweet
+2024.01.16 16:05:00 ➾ Tweeting
+2024.01.16 16:05:05 ➾ Failed to tweet
+2024.01.16 16:07:35 ➾ Tweeting
+2024.01.16 16:07:48 ➾ Failed to tweet
+2024.01.16 16:10:30 ➾ Program started
+2024.01.16 16:10:30 ➾ Twitter opened
+2024.01.16 16:10:53 ➾ Logged in!
+2024.01.16 16:10:59 ➾ Tweeting
+2024.01.16 16:11:12 ➾ Tweeted : Hi
+@levie
+
+@chrisdonahuey
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 16:14:09 ➾ Program started
+2024.01.16 16:14:09 ➾ Twitter opened
+2024.01.16 16:15:34 ➾ Logged in!
+2024.01.16 16:15:47 ➾ Tweeting
+2024.01.16 16:15:52 ➾ Failed to tweet
+2024.01.16 16:16:02 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 16:16:14 ➾ Failed to tweet
+2024.01.16 16:25:04 ➾ Program started
+2024.01.16 16:25:04 ➾ Twitter opened
+2024.01.16 16:25:28 ➾ Logged in!
+2024.01.16 16:25:34 ➾ Tweeting
+2024.01.16 16:25:40 ➾ Failed to tweet
+2024.01.16 16:27:16 ➾ Program started
+2024.01.16 16:27:16 ➾ Twitter opened
+2024.01.16 16:27:39 ➾ Logged in!
+2024.01.16 16:27:47 ➾ Tweeting
+2024.01.16 16:27:54 ➾ Failed to tweet
+2024.01.16 16:28:27 ➾ Program started
+2024.01.16 16:28:27 ➾ Twitter opened
+2024.01.16 16:28:48 ➾ Logged in!
+2024.01.16 16:28:57 ➾ Tweeting
+2024.01.16 16:29:09 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 16:30:16 ➾ Program started
+2024.01.16 16:30:16 ➾ Twitter opened
+2024.01.16 16:30:36 ➾ Logged in!
+2024.01.16 16:30:46 ➾ Tweeting
+2024.01.16 16:30:51 ➾ Failed to tweet
+2024.01.16 16:33:43 ➾ Program started
+2024.01.16 16:33:43 ➾ Twitter opened
+2024.01.16 16:34:04 ➾ Logged in!
+2024.01.16 16:34:19 ➾ Tweeting
+2024.01.16 16:34:29 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 16:35:18 ➾ Tweeting
+2024.01.16 16:35:28 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 16:35:55 ➾ Visiting 1 profiles.
+2024.01.16 16:35:59 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.16 16:36:07 ➾ Tweeted at profile: https://twitter.com/ZenXHT : By @Alex thank you for the best pic ever
+#picture
+2024.01.16 16:36:50 ➾ Tweeting
+2024.01.16 16:37:00 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 16:37:19 ➾ Tweeting
+2024.01.16 16:37:28 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:37:36 ➾ Tweeting
+2024.01.16 16:37:45 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:40:49 ➾ Program started
+2024.01.16 16:40:49 ➾ Twitter opened
+2024.01.16 16:41:09 ➾ Logged in!
+2024.01.16 16:41:49 ➾ Tweeting
+2024.01.16 16:41:58 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:44:48 ➾ Program started
+2024.01.16 16:44:48 ➾ Twitter opened
+2024.01.16 16:45:11 ➾ Logged in!
+2024.01.16 16:45:20 ➾ Tweeting
+2024.01.16 16:45:31 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:46:59 ➾ Tweeting
+2024.01.16 16:47:11 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:51:10 ➾ Program started
+2024.01.16 16:51:10 ➾ Twitter opened
+2024.01.16 16:51:32 ➾ Logged in!
+2024.01.16 16:51:39 ➾ Tweeting
+2024.01.16 16:51:50 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:53:30 ➾ Tweeting
+2024.01.16 16:53:42 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 16:57:28 ➾ Tweeting
+2024.01.16 16:57:40 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 17:01:39 ➾ Program started
+2024.01.16 17:01:39 ➾ Twitter opened
+2024.01.16 17:02:25 ➾ Logged in!
+2024.01.16 17:02:35 ➾ Tweeting
+2024.01.16 17:02:46 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 17:02:59 ➾ Tweeting
+2024.01.16 17:03:13 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:13:42 ➾ Program started
+2024.01.16 17:13:42 ➾ Twitter opened
+2024.01.16 17:14:15 ➾ Logged in!
+2024.01.16 17:14:24 ➾ Tweeting
+2024.01.16 17:14:37 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:18:24 ➾ Program started
+2024.01.16 17:18:24 ➾ Twitter opened
+2024.01.16 17:19:07 ➾ Logged in!
+2024.01.16 17:19:36 ➾ Tweeting
+2024.01.16 17:19:49 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:30:44 ➾ Program started
+2024.01.16 17:30:44 ➾ Twitter opened
+2024.01.16 17:31:07 ➾ Logged in!
+2024.01.16 17:31:15 ➾ Tweeting
+2024.01.16 17:31:28 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:32:13 ➾ Tweeting
+2024.01.16 17:32:25 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 17:34:23 ➾ Tweeting
+2024.01.16 17:34:36 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:34:46 ➾ Tweeting
+2024.01.16 17:34:58 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 17:35:51 ➾ Tweeting
+2024.01.16 17:36:03 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 17:36:10 ➾ Tweeting
+2024.01.16 17:36:21 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.17 08:31:20 ➾ Program started
+2024.01.17 08:31:20 ➾ Twitter opened
+2024.01.17 08:31:50 ➾ Logged in!
+2024.01.17 08:32:17 ➾ Tweeting
+2024.01.17 08:32:31 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 08:32:47 ➾ Tweeted : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 08:34:42 ➾ Tweeting
+2024.01.17 08:34:55 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 08:35:21 ➾ Tweeting
+2024.01.17 08:35:34 ➾ Tweeted : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 08:36:07 ➾ Tweeting
+2024.01.17 08:36:19 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 08:40:11 ➾ Tweeting
+2024.01.17 08:40:24 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 08:41:04 ➾ Tweeting
+2024.01.17 08:41:16 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 08:57:38 ➾ Visiting 1 profiles.
+2024.01.17 08:57:42 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.17 08:57:51 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.01.17 08:59:29 ➾ Visiting 1 profiles.
+2024.01.17 08:59:33 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 08:59:45 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:00:00 ➾ Visiting 1 profiles.
+2024.01.17 09:00:04 ➾ Followed profile: https://twitter.com/larryfink
+2024.01.17 09:00:16 ➾ Tweeted at profile: https://twitter.com/larryfink : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:02:10 ➾ Tweeting
+2024.01.17 09:02:24 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:04:58 ➾ Visiting 1 profiles.
+2024.01.17 09:05:02 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:05:13 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:05:36 ➾ Visiting 1 profiles.
+2024.01.17 09:05:40 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:05:51 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:05:56 ➾ Tweeting
+2024.01.17 09:06:10 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:07:47 ➾ Program started
+2024.01.17 09:07:47 ➾ Twitter opened
+2024.01.17 09:08:22 ➾ Logged in!
+2024.01.17 09:08:29 ➾ Tweeting
+2024.01.17 09:08:42 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:08:47 ➾ Visiting 1 profiles.
+2024.01.17 09:08:51 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:09:04 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:09:39 ➾ Tweeting
+2024.01.17 09:09:51 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 09:10:03 ➾ Tweeting
+2024.01.17 09:10:17 ➾ Tweeted : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:10:38 ➾ Tweeting
+2024.01.17 09:10:51 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:12:32 ➾ Tweeting
+2024.01.17 09:12:36 ➾ Tweeting
+2024.01.17 09:12:55 ➾ Visiting 0 profiles.
+2024.01.17 09:12:56 ➾ Tweeting
+2024.01.17 09:12:56 ➾ Tweeting
+2024.01.17 09:13:01 ➾ Tweeting
+2024.01.17 09:13:15 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:13:54 ➾ Tweeting
+2024.01.17 09:14:08 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:15:01 ➾ Tweeting
+2024.01.17 09:15:07 ➾ Tweeting
+2024.01.17 09:15:18 ➾ Tweeting
+2024.01.17 09:15:32 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:16:12 ➾ Tweeting
+2024.01.17 09:16:24 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 09:16:41 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:16:58 ➾ Tweeted : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:17:15 ➾ Tweeted : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:17:32 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:17:49 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:20:24 ➾ Visiting 6 profiles.
+2024.01.17 09:20:28 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.17 09:20:39 ➾ Tweeted at profile: https://twitter.com/ZenXHT : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:20:47 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:20:59 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:21:06 ➾ Followed profile: https://twitter.com/larryfink
+2024.01.17 09:21:18 ➾ Tweeted at profile: https://twitter.com/larryfink : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:21:21 ➾ Failed to visit profile: nan
+2024.01.17 09:21:24 ➾ Failed to visit profile: nan
+2024.01.17 09:21:27 ➾ Failed to visit profile: nan
+2024.01.17 09:22:29 ➾ Visiting 4 profiles.
+2024.01.17 09:22:34 ➾ Followed profile: https://twitter.com/larryfink
+2024.01.17 09:22:47 ➾ Tweeted at profile: https://twitter.com/larryfink : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:22:54 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.01.17 09:23:06 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:23:13 ➾ Followed profile: https://twitter.com/WBCollaborative
+2024.01.17 09:23:26 ➾ Tweeted at profile: https://twitter.com/WBCollaborative : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:23:33 ➾ Followed profile: https://twitter.com/shookresearch
+2024.01.17 09:23:45 ➾ Tweeted at profile: https://twitter.com/shookresearch : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job

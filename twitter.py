@@ -7,8 +7,6 @@ import tkinter as tk
 from tkinter import filedialog
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import re
-
 
 def log(log_text):
     log_text = str(time.strftime("%Y.%m.%d %H:%M:%S")) + " ➾ " + log_text
@@ -17,29 +15,25 @@ def log(log_text):
     log_file.write(log_text + "\n")
     log_file.close()
 
-
 global_delay = 3
+driver = webdriver.Chrome()
+driver.get("https://twitter.com/login")
+log("Program started")
+log("Twitter opened")
+try:
+    WebDriverWait(driver, 90).until(EC.url_to_be("https://twitter.com/home"))
+    log("Logged in!")
+except:
+    log(f"Failed. Try again")   
 
+def run(command):  # follow the person only
+    switch_dict = {
+        'follow_only': follow_only,
+        'follow_tweet': follow_tweet,
+        'personal_tweet': personal_tweet,
+    }
 
-def main(command):  # follow the person only
-    driver = webdriver.Chrome()
-    driver.get("https://twitter.com/login")
-    log("Program started")
-    log("Twitter opened")
-    try:
-        WebDriverWait(driver, 90).until(EC.url_to_be("https://twitter.com/home"))
-        log("Logged in!")
-        switch_dict = {
-            'follow_only': follow_only(),
-            'follow_tweet': follow_tweet(),
-            'personal_tweet': personal_tweet(),
-        }
-
-        switch_dict.get(command)()
-
-    except:
-        log(f"Failed. Try again")
-
+    switch_dict.get(command)(driver)
 
 def follow_only(driver):
     iloc_start = int(iloc_start_entry.get())
@@ -104,32 +98,34 @@ def follow_tweet(driver):
                 "/html/body/div[1]/div/div/div[2]/header/div/div/div/div[1]/div[3]/a/div",
             ).click()
             time.sleep(2)
+            
+            # Add picture to twitter post
+            try:
+                xpat1 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
+                input.send_keys(fr'{imgs[i]}')
+            except Exception as e:
+                print(str(e))
+                print('can not find image ' + fr'{imgs[i]}')
+            time.sleep(3)
 
             # Add content to twitter post
-            tweet_xpath1 = "/html/body/div[1]/div/div/div[2]/main/div/div/div[3]/div/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span"
-            tweet_xpath2 = "/html/body/div[1]/div/div/div[2]/main/div/div/div[3]/div/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span"
-            tweet_xpath3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span"
-            tweet_xpath4 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div[1]/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span"
-            tweet_element = find_element_in_list(
-                driver, [tweet_xpath3, tweet_xpath4, tweet_xpath1, tweet_xpath2]
-            )
-            if tweet_element:
-                do_tweet(driver, tweet_element, tweet)
-            else:
-                print("Tweet_element not found.")
+            driver.find_element(
+                    "xpath",
+                    "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span",
+                ).send_keys(tweet)
             time.sleep(2)
-
-            # Add picture to twitter post
-            if imgs[i]:
-                try:
-                    driver.find_element(
-                        "xpath",
-                        "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input",
-                    ).send_keys(imgs[i])
-                except:
-                    print(imgs[i])
-
-            time.sleep(3)
+            try:
+                dropdown = driver.find_element(
+                    "xpath",
+                    "/html/body/div[1]/div/div/div[1]/div[3]",
+                )
+                driver.execute_script("arguments[0].parentNode.removeChild(arguments[0]);", dropdown)
+            except:
+                print('dropdown hidden')
+            time.sleep(2)
 
             driver.find_element(
                 "xpath",
@@ -160,24 +156,33 @@ def personal_tweet(driver):
             driver.get("https://twitter.com/compose/tweet")
             time.sleep(global_delay)
             # Perform actions on the profile here
-            tweet_xpath1 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span"
-            tweet_xpath2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div[2]/div/div/div/div/span"
-            tweet_element = find_element_in_list(driver, [tweet_xpath1, tweet_xpath2])
-            if tweet_element:
-                do_tweet(driver, tweet_element, tweet)
-            else:
-                print("Tweet_element not found.")
-            time.sleep(2)
-            if images[i]:
-                try:
-                    driver.find_element(
-                        "xpath",
-                        "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input",
-                    ).send_keys(images[i])
-                except:
-                    print(images[i])
-
+            
+            try:
+                xpat1 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
+                input.send_keys(fr'{images[i]}')
+            except Exception as e:
+                print(str(e))
+                print('can not find image ' + fr'{images[i]}')
             time.sleep(3)
+            
+            driver.find_element(
+                    "xpath",
+                    "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span",
+                ).send_keys(tweet)
+            time.sleep(2)
+            try:
+                dropdown = driver.find_element(
+                    "xpath",
+                    "/html/body/div[1]/div/div/div[1]/div[3]",
+                )
+                driver.execute_script("arguments[0].parentNode.removeChild(arguments[0]);", dropdown)
+            except:
+                print('dropdown hidden')
+            time.sleep(2)
+        
             driver.find_element(
                 "xpath",
                 "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/div[4]",
@@ -188,41 +193,6 @@ def personal_tweet(driver):
             print(str(e))
             log(f"Failed to tweet")
             continue
-
-
-def do_tweet(driver, tweet_element, tweet):
-    tweet_parts = re.split(r"([#@])", tweet)
-    result = []
-    for i in range(len(tweet_parts)):
-        if i % 2 == 1:
-            if i + 1 < len(tweet_parts):
-                str = tweet_parts[i].rstrip() + tweet_parts[i + 1].split()[0].strip()
-                result.append(str)
-        else:
-            if i > 1:
-                str = " ".join(tweet_parts[i].split()[1:])
-                result.append(str.strip())
-            else:
-                result.append(tweet_parts[i].strip())
-
-    for i in range(len(result)):
-        if result[i]:
-            try:
-                tweet_element.send_keys(" " + result[i])
-            except:
-                print("tweet element cant send key")
-            if "#" in result[i] or "@" in result[i]:
-                time.sleep(3)
-            try:
-                driver.find_element(
-                    "xpath",
-                    "/html/body/div[1]/div/div/div[1]/div[3]/div/div/div[2]/div[2]",
-                ).click()
-                print("Dropdown = true")
-            except:
-                print("Dropdown = false")
-            time.sleep(1)
-
 
 def find_element_in_list(driver, xpath_list, wait=3):
     for xpath in xpath_list:
@@ -235,7 +205,6 @@ def find_element_in_list(driver, xpath_list, wait=3):
             print(f"Element not found with XPath: {xpath}")
     print("No element found in the provided XPath list.")
     return None
-
 
 # Create tkinter window
 window = tk.Tk()
@@ -250,30 +219,28 @@ iloc_start_entry = tk.Entry(
     width=10,
     justify="center",
 )
-iloc_start_entry.insert(0, "2")
 iloc_start_entry.pack()
 
 # iloc end entry
 iloc_end_label = tk.Label(window, text="Ending Row:")
 iloc_end_label.pack()
 iloc_end_entry = tk.Entry(window, width=10, justify="center")
-iloc_end_entry.insert(0, "4")
 iloc_end_entry.pack(pady=10)
 
 # follow button
 follow_button = tk.Button(
-    window, text="Follow the Twitter user Only", command=lambda: main('follow_only')
+    window, text="Follow the Twitter user Only", command=lambda: run('follow_only')
 )
 follow_button.pack(pady=10)
 
 # follow and tweet button
 follow_tweet_button = tk.Button(
-    window, text="Follow and Tweet at the Twitter user", command=lambda: main('follow_tweet')
+    window, text="Follow and Tweet at the Twitter user", command=lambda: run('follow_tweet')
 )
 follow_tweet_button.pack(pady=10)
 
 # personal tweet button
-tweet_button = tk.Button(window, text="Personal Tweets", command=main('personal_tweet'))
+tweet_button = tk.Button(window, text="Personal Tweets", command=lambda: run('personal_tweet'))
 tweet_button.pack(pady=10)
 
 window.mainloop()
