@@ -7,6 +7,8 @@ import tkinter as tk
 from tkinter import filedialog
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from tkinter import messagebox
+import re
 
 def log(log_text):
     log_text = str(time.strftime("%Y.%m.%d %H:%M:%S")) + " ➾ " + log_text
@@ -17,6 +19,7 @@ def log(log_text):
 
 global_delay = 3
 driver = webdriver.Chrome()
+tweet_len_limit = 280
 driver.get("https://twitter.com/login")
 log("Program started")
 log("Twitter opened")
@@ -71,15 +74,21 @@ def follow_tweet(driver):
     file = "input.xlsx"
     df = pd.read_excel(file)
     urls = df.iloc[iloc_start - 1 : iloc_end, 0].values.tolist()
-    ceo_tweets = df.iloc[iloc_start - 1 : iloc_end, 1].values.tolist()
-    imgs = df.iloc[iloc_start - 1 : iloc_end, 2].values.tolist()
+    sheet_2 = 'tweet'
+    df2 = pd.read_excel(file, sheet_name=sheet_2)
+    ceo_tweets_names = df.iloc[iloc_start - 1 : iloc_end, 1].apply(str).values.tolist()
+    tags = df.iloc[iloc_start - 1 : iloc_end, 2].apply(str).values.tolist()
+    hashtags = df.iloc[iloc_start - 1 : iloc_end, 3].apply(str).values.tolist()
+    ceo_tweets_name2 = df2.iloc[:, 0].apply(str).values.tolist()
+    ceo_tweets = df2.iloc[:, 1].apply(str).values.tolist()
+    images = df2.iloc[:, 2].apply(str).values.tolist()
     n = len(urls)
     log(f"Visiting {len(urls)} profiles.")
 
     for i in range(n):
         try:
             url = urls[i]
-            tweet = ceo_tweets[i]
+            index = ceo_tweets_name2.index(ceo_tweets_names[i])
             driver.get(url)
             time.sleep(global_delay)
             try:
@@ -101,17 +110,30 @@ def follow_tweet(driver):
             
             # Add picture to twitter post
             try:
-                xpat1 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
-                xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
-                xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
-                input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
-                input.send_keys(fr'{imgs[i]}')
+                    xpat1 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                    xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                    xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                    input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
+                    input.send_keys(fr'{images[i]}')
             except Exception as e:
-                print(str(e))
-                print('can not find image ' + fr'{imgs[i]}')
+                    print(str(e))
+                    print('can not find image ' + fr'{images[i]}')
             time.sleep(3)
 
             # Add content to twitter post
+            tweet = str(ceo_tweets[index])
+            this_hashtags = re.split(r'[,\s\n]+', hashtags[i])
+            this_hashtags = ['#' + tag if not tag.startswith('#') else tag for tag in this_hashtags]
+            this_tags = re.split(r'[,\s\n]+', tags[i])
+            this_tags = ['@' + tag if not tag.startswith('@') else tag for tag in this_tags]
+            # add tagname
+            tweet = re.sub(r'&', lambda match: replace_and_increment(this_tags), tweet)
+            # add hashtag
+            tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
+            tag_ceo = url.split('/')[-1]
+            if (len(tweet) + len(tag_ceo) > tweet_len_limit):
+                log_error_message(error_text, ceo_tweets_names[i] + " too long (" + len(tweet) + len(tag_ceo) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
+                continue
             driver.find_element(
                     "xpath",
                     "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span",
@@ -144,30 +166,49 @@ def personal_tweet(driver):
     iloc_end = int(iloc_end_entry.get())
     file = "input.xlsx"
     df = pd.read_excel(file)
-    tweets = df.iloc[iloc_start - 1 : iloc_end, 3].values.tolist()
-    images = df.iloc[iloc_start - 1 : iloc_end, 4].values.tolist()
-    n = len(tweets)
+    sheet_2 = 'tweet'
+    df2 = pd.read_excel(file, sheet_name=sheet_2)
+    tweets_names = df.iloc[iloc_start - 1 : iloc_end, 4].apply(str).values.tolist()
+    tags = df.iloc[iloc_start - 1 : iloc_end, 5].apply(str).values.tolist()
+    hashtags = df.iloc[iloc_start - 1 : iloc_end, 6].apply(str).values.tolist()
+    tweets_name2 = df2.iloc[:, 0].apply(str).values.tolist()
+    tweets = df2.iloc[:, 1].apply(str).values.tolist()
+    images = df2.iloc[:, 2].apply(str).values.tolist()
+    n = len(tweets_names)
     log(f"Tweeting")
 
     for i in range(n):
         try:
             # url = urls[i]
-            tweet = tweets[i]
+            index = tweets_name2.index(tweets_names[i])
             driver.get("https://twitter.com/compose/tweet")
             time.sleep(global_delay)
             # Perform actions on the profile here
             
+            # add image
             try:
-                xpat1 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
-                xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
-                xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
-                input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
-                input.send_keys(fr'{images[i]}')
+                    xpat1 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                    xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                    xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
+                    input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
+                    input.send_keys(fr'{images[index]}')
             except Exception as e:
-                print(str(e))
-                print('can not find image ' + fr'{images[i]}')
+                    print(str(e))
+                    print('can not find image ' + fr'{images[index]}')
             time.sleep(3)
             
+            tweet = str(tweets[index])
+            this_hashtags = re.split(r'[,\s\n]+', hashtags[i])
+            this_hashtags = ['#' + tag if not tag.startswith('#') else tag for tag in this_hashtags]
+            this_tags = re.split(r'[,\s\n]+', tags[i])
+            this_tags = ['@' + tag if not tag.startswith('@') else tag for tag in this_tags]
+            # add tagname
+            tweet = re.sub(r'&', lambda match: replace_and_increment(this_tags), tweet)
+            # add hashtag
+            tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
+            if (len(tweet) > tweet_len_limit):
+                log_error_message(error_text, "post " + tweets_names[i] + " too long (" + len(tweet) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
+                continue
             driver.find_element(
                     "xpath",
                     "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span",
@@ -206,6 +247,23 @@ def find_element_in_list(driver, xpath_list, wait=3):
     print("No element found in the provided XPath list.")
     return None
 
+def replace_and_increment(replacement_values):
+    if replacement_values:
+        return replacement_values.pop(0)
+    else:
+        return ''
+    
+def log_error_message(text_widget, message):
+    current_content = text_widget.get("1.0", tk.END).strip()
+    if message in current_content:
+        line_number = current_content.count(message) + 1
+        updated_line = f"{message} (x{line_number})"
+        text_widget.replace(f"{line_number}.0", f"{line_number + 1}.0", updated_line + "\n")
+    else:
+        text_widget.insert(tk.END, message + "\n")
+    # Scroll to the end to show the latest message
+    text_widget.see(tk.END)
+
 # Create tkinter window
 window = tk.Tk()
 window.title("Twitter Follow and Tweet Bot")
@@ -242,5 +300,13 @@ follow_tweet_button.pack(pady=10)
 # personal tweet button
 tweet_button = tk.Button(window, text="Personal Tweets", command=lambda: run('personal_tweet'))
 tweet_button.pack(pady=10)
+
+error_text = tk.Text(window, height=10, width=40, wrap=tk.WORD, fg="red")
+error_text.pack(pady=10)
+
+# Create a Scrollbar and connect it to the Text widget
+scrollbar = tk.Scrollbar(window, command=error_text.yview)
+scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+error_text.config(yscrollcommand=scrollbar.set)
 
 window.mainloop()

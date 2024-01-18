@@ -1,27 +1,47 @@
 # bot_follow_and_post_twitter-server-interface
 
-Set up before using:
+Cách sử dụng bot tự động đăng bài lên twitter
 
-1: pip install pandas
-2: pip install openpyxl
-3: make sure you have selenium and selenium webdriver
+1. mở file input.xlsx.
 
+![1705551475652](image/README/1705551475652.png)
 
-How to use the Bot:
+![1705551571523](image/README/1705551571523.png)
 
-1. Navigate from dist to the twitter folder. Open input.xlsx. 
+Ở sheet 500+ connection
 
-![img](image.png)
+A. CEO's Twitter: hãy để đường dẫn URL tới profile accounts follow
+B. Tweet at CEO: điền tên của bài tweet lấy từ sheet "tweet"
+C. TAG: Tag người khác vào bài tweet, hãy điền vào userId, ví dụ: HaoNam19307, JamesPGorman1
+D. HashTAG:  ví dụ: heath, donation
+	Số lượng tag và hashtag xuất hiện tùy vào số lượng ký tự "&" và "#" tương tự trong Tweet ở sheet "tweet"
+E. Personal Tweet: điền tên của bài tweet lấy từ sheet "tweet"
+F, G. Tương tự C,D
 
-Enter the URL of the twitter accounts you would like to follow and the content of the tweet into the "CEO's Twitter" and "Tweet at CEO" column respectively".
+Ở sheet tweet
+A. đặt tên cho bài tweet (không để trùng tên)
+B. Nội dung bài tweet.
+	dấu & sẽ được chương trình thay thế lần lượt cho các TAG ở sheet 500+ connection
+	dấu # sẽ được chương trình thay thế lần lượt cho các HASHTAG
+	số lượng dấu & và # có thể them theo ý muốn và vị trí bất kỳ.
+C. thêm hình ảnh cho bài tweet.
+	Để lấy đúng đường dẫn hình ảnh hãy: chuột phải hình ảnh -> chọn properties -> chọn Security
+	hoặc lấy đường dẫn theo cách nào khác bạn biết
+	chỉ thêm được 1 hình ảnh cho 1 bài viết
 
-Enter the tweets you would like to post under the "Personal Tweet" column. 
+2. Chạy file twitter.exe nằm ở cùng folder.
+   Một trình duyệt sẽ xuất hiện, hãy đăng nhập vào twitter.
+   Sau khi đăng nhập thành công sẽ xuất hiện cửa sổ dưới
 
-2. Run twitter.exe located in the same folder. The following should appear:
+![1705552006146](image/README/1705552006146.png)
 
-![img2](image-1.png)
+    * Starting Row và Ending Row: Nhập vào số dòng User muốn bắt đầu và kết thúc ở sheet 500+ connection
+	ví dụ: nếu nhập 1 và 3 thì chương trình sẽ chọn 3 dòng dữ liệu đầu tiên ở sheet 500+ connection
+    * Follow the Twitter user only: Chỉ follow các Profile bạn đã chọn.
+    * Follow and Tweet at the Twitter user: Follow và đăng bài viết các dòng đã chọn
+    * Personal Tweets: Đăng bài viết cá nhân theo các dòng đã chọn
+    * Ô message: Các bài viết quá dài sẽ không đăng được và note lại ở đây. Hãy theo dõi để sửa.
 
-3. Enter the starting and ending rows that you would like to run. For example, with reference to the first image, if you would like to tweet content from the 2nd row to the fourth row only, enter 2 and 4 into the starting and ending row respectively. You are recommended to run it in batches to prevent getting banned by twitter. Press the function you would like to run. 
+*Kết quả của một bài viết đúng.
 
-5. Once you run twitter.exe, a chrome browser will appear. You have 90 seconds to enter your twitter credentials to get logged in manually. Wait until the 90 seconds are up and the programme will run automatically. 
-
+![1705553150699](image/README/1705553150699.png)
