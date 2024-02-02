@@ -11,20 +11,29 @@ Cách sử dụng bot tự động đăng bài lên twitter
 Ở sheet 500+ connection
 
 A. CEO's Twitter: hãy để đường dẫn URL tới profile accounts follow
+
 B. Tweet at CEO: điền tên của bài tweet lấy từ sheet "tweet"
+
 C. TAG: Tag người khác vào bài tweet, hãy điền vào userId, ví dụ: HaoNam19307, JamesPGorman1
+
 D. HashTAG:  ví dụ: heath, donation
 	Số lượng tag và hashtag xuất hiện tùy vào số lượng ký tự "&" và "#" tương tự trong Tweet ở sheet "tweet"
 E. Personal Tweet: điền tên của bài tweet lấy từ sheet "tweet"
+
 F, G. Tương tự C,D
 
 Ở sheet tweet
+
 A. đặt tên cho bài tweet (không để trùng tên)
+
 B. Nội dung bài tweet.
+
 	dấu & sẽ được chương trình thay thế lần lượt cho các TAG ở sheet 500+ connection
 	dấu # sẽ được chương trình thay thế lần lượt cho các HASHTAG
 	số lượng dấu & và # có thể them theo ý muốn và vị trí bất kỳ.
+ 
 C. thêm hình ảnh cho bài tweet.
+
 	Để lấy đúng đường dẫn hình ảnh hãy: chuột phải hình ảnh -> chọn properties -> chọn Security
 	hoặc lấy đường dẫn theo cách nào khác bạn biết
 	chỉ thêm được 1 hình ảnh cho 1 bài viết
