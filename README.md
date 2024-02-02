@@ -18,6 +18,7 @@ C. TAG: Tag người khác vào bài tweet, hãy điền vào userId, ví dụ: 
 
 D. HashTAG:  ví dụ: heath, donation
 	Số lượng tag và hashtag xuất hiện tùy vào số lượng ký tự "&" và "#" tương tự trong Tweet ở sheet "tweet"
+
 E. Personal Tweet: điền tên của bài tweet lấy từ sheet "tweet"
 
 F, G. Tương tự C,D
