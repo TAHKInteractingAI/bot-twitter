@@ -37,7 +37,9 @@ def run(command):  # follow the person only
     }
 
     switch_dict.get(command)(driver)
-
+###
+     ###cannot follow some test case 
+###
 def follow_only(driver):
     iloc_start = int(iloc_start_entry.get())
     iloc_end = int(iloc_end_entry.get())
@@ -54,8 +56,8 @@ def follow_only(driver):
             time.sleep(global_delay)
             try:
                 # Perform actions on the profile here
-                followed_button = "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[2]/div[1]/div"
-                follow_element = driver.find_element("xpath", followed_button)
+                followed_button = ["/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[2]/div[1]/div","/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[3]/div[1]/div"]
+                follow_element = find_element_in_list(driver,followed_button,3)
                 assert follow_element.text == "Follow"
                 follow_element.click()
                 log(f"Followed profile: {url}")
@@ -71,36 +73,23 @@ def follow_only(driver):
 def follow_tweet(driver):
     iloc_start = int(iloc_start_entry.get())
     iloc_end = int(iloc_end_entry.get())
-    file = "input.xlsx"
-    df = pd.read_excel(file)
-    urls = df.iloc[iloc_start - 1 : iloc_end, 0].values.tolist()
-    sheet_2 = 'tweet'
-    df2 = pd.read_excel(file, sheet_name=sheet_2)
-    ceo_tweets_names = df.iloc[iloc_start - 1 : iloc_end, 1].apply(str).values.tolist()
-    tags = df.iloc[iloc_start - 1 : iloc_end, 2].apply(str).values.tolist()
-    hashtags = df.iloc[iloc_start - 1 : iloc_end, 3].apply(str).values.tolist()
-    ceo_tweets_name2 = df2.iloc[:, 0].apply(str).values.tolist()
-    ceo_tweets = df2.iloc[:, 1].apply(str).values.tolist()
-    images = df2.iloc[:, 2].apply(str).values.tolist()
-    n = len(urls)
-    log(f"Visiting {len(urls)} profiles.")
-
-    for i in range(n):
+    infos = getInfoOftweet(iloc_start,iloc_end)
+    for i in range(len(infos)):
         try:
-            url = urls[i]
-            index = ceo_tweets_name2.index(ceo_tweets_names[i])
+            info = infos[i]
+            url = info['url']
             driver.get(url)
-            time.sleep(global_delay)
+            time.sleep(3)
             try:
                 # Perform actions on the profile here
-                followed_button = "/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[2]/div[1]/div"
-                follow_element = driver.find_element("xpath", followed_button)
+                followed_button = ["/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[2]/div[1]/div","/html/body/div[1]/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div[2]/div[3]/div[1]/div"]
+                follow_element = find_element_in_list(driver,followed_button,3)
                 assert follow_element.text == "Follow"
                 follow_element.click()
-                log(f"Followed profile: {url}")
+                print(f"Followed profile: {url}")
                 time.sleep(2)
             except:
-                log(f"Followed profile: {url}")
+                print(f"Followed profile: {url}")
 
             driver.find_element(
                 "xpath",
@@ -114,17 +103,17 @@ def follow_tweet(driver):
                     xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
-                    input.send_keys(fr'{images[i]}')
+                    input.send_keys(info['image'])
             except Exception as e:
                     print(str(e))
-                    print('can not find image ' + fr'{images[i]}')
+                    print('can not find image ' + info['image'])
             time.sleep(3)
 
             # Add content to twitter post
-            tweet = str(ceo_tweets[index])
-            this_hashtags = re.split(r'[,\s\n]+', hashtags[i])
+            tweet = str(info['content'])
+            this_hashtags = re.split(r'[,\s\n]+', info['hashtag'])
             this_hashtags = ['#' + tag if not tag.startswith('#') else tag for tag in this_hashtags]
-            this_tags = re.split(r'[,\s\n]+', tags[i])
+            this_tags = re.split(r'[,\s\n]+', info['tag'])
             this_tags = ['@' + tag if not tag.startswith('@') else tag for tag in this_tags]
             # add tagname
             tweet = re.sub(r'&', lambda match: replace_and_increment(this_tags), tweet)
@@ -132,12 +121,14 @@ def follow_tweet(driver):
             tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
             tag_ceo = url.split('/')[-1]
             if (len(tweet) + len(tag_ceo) > tweet_len_limit):
-                log_error_message(error_text, ceo_tweets_names[i] + " too long (" + len(tweet) + len(tag_ceo) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
+                log_error_message(error_text, info['name'] + " too long (" + len(tweet) + len(tag_ceo) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
                 continue
-            driver.find_element(
-                    "xpath",
-                    "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span",
-                ).send_keys(tweet)
+            # driver.find_element(
+            #         "xpath",
+            #         "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div"
+            #     ).send_keys(tweet)
+            element = driver.find_element("class name","public-DraftEditor-content")
+            element.send_keys(tweet)
             time.sleep(2)
             try:
                 dropdown = driver.find_element(
@@ -153,10 +144,10 @@ def follow_tweet(driver):
                 "xpath",
                 "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/div[4]",
             ).click()
-            log(f"Tweeted at profile: {url} : {tweet}")
+            print(f"Tweeted at profile: {url} : {tweet}")
             time.sleep(global_delay)
         except:
-            log(f"Failed to visit profile: {url}")
+            print(f"Failed to visit profile: {url}")
             time.sleep(global_delay)
             continue
 
@@ -164,23 +155,13 @@ def follow_tweet(driver):
 def personal_tweet(driver):
     iloc_start = int(iloc_start_entry.get())
     iloc_end = int(iloc_end_entry.get())
-    file = "input.xlsx"
-    df = pd.read_excel(file)
-    sheet_2 = 'tweet'
-    df2 = pd.read_excel(file, sheet_name=sheet_2)
-    tweets_names = df.iloc[iloc_start - 1 : iloc_end, 4].apply(str).values.tolist()
-    tags = df.iloc[iloc_start - 1 : iloc_end, 5].apply(str).values.tolist()
-    hashtags = df.iloc[iloc_start - 1 : iloc_end, 6].apply(str).values.tolist()
-    tweets_name2 = df2.iloc[:, 0].apply(str).values.tolist()
-    tweets = df2.iloc[:, 1].apply(str).values.tolist()
-    images = df2.iloc[:, 2].apply(str).values.tolist()
-    n = len(tweets_names)
+    infos = getInfoOftweet(iloc_start,iloc_end)
     log(f"Tweeting")
 
-    for i in range(n):
+    for i in range(len(infos)):
         try:
             # url = urls[i]
-            index = tweets_name2.index(tweets_names[i])
+            info = infos[i]
             driver.get("https://twitter.com/compose/tweet")
             time.sleep(global_delay)
             # Perform actions on the profile here
@@ -191,28 +172,26 @@ def personal_tweet(driver):
                     xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
-                    input.send_keys(fr'{images[index]}')
+                    input.send_keys(info['image'])
             except Exception as e:
                     print(str(e))
-                    print('can not find image ' + fr'{images[index]}')
+                    print('can not find image ' + info['image'])
             time.sleep(3)
-            
-            tweet = str(tweets[index])
-            this_hashtags = re.split(r'[,\s\n]+', hashtags[i])
+            ##content of tweet
+            tweet = str(info['content'])
+            this_hashtags = re.split(r'[,\s\n]+', info['hashtag'])
             this_hashtags = ['#' + tag if not tag.startswith('#') else tag for tag in this_hashtags]
-            this_tags = re.split(r'[,\s\n]+', tags[i])
+            this_tags = re.split(r'[,\s\n]+', info['tag'])
             this_tags = ['@' + tag if not tag.startswith('@') else tag for tag in this_tags]
             # add tagname
             tweet = re.sub(r'&', lambda match: replace_and_increment(this_tags), tweet)
             # add hashtag
             tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
             if (len(tweet) > tweet_len_limit):
-                log_error_message(error_text, "post " + tweets_names[i] + " too long (" + len(tweet) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
+                log_error_message(error_text, "post " + info['name'] + " too long (" + len(tweet) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
                 continue
-            driver.find_element(
-                    "xpath",
-                    "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span",
-                ).send_keys(tweet)
+            element = driver.find_element("class name","public-DraftEditor-content")
+            element.send_keys(tweet)
             time.sleep(2)
             try:
                 dropdown = driver.find_element(
@@ -246,7 +225,26 @@ def find_element_in_list(driver, xpath_list, wait=3):
             print(f"Element not found with XPath: {xpath}")
     print("No element found in the provided XPath list.")
     return None
+def getInfoOftweet(start,end):
+    file = "input.xlsx"
+    df = pd.read_excel(file)
+    urls = df.iloc[start - 1 : end, 0].values.tolist()
+    tweetNames = df.iloc[start-1:end,1].values.tolist()
+    sheet_2 = 'tweet'
+    df2 = pd.read_excel(file, sheet_name=sheet_2)
+    tags = df.iloc[start - 1 : end, 2].apply(str).values.tolist()
+    hashtags = df.iloc[start - 1 : end, 3].apply(str).values.tolist()
+    info = []
+    for i in tweetNames:
+        tmp_df = df2[df2["NAME"] == i]
+        info_dict = {"name":i,"content":tmp_df['TWEET'].values[0],"image":tmp_df["IMAGE"].values[0]}
+        info.append(info_dict)
 
+    for i in range(len(info)):
+        info[i]['url'] = urls[i]
+        info[i]['tag'] = tags[i]
+        info[i]['hashtag'] = hashtags[i]
+    return info
 def replace_and_increment(replacement_values):
     if replacement_values:
         return replacement_values.pop(0)
