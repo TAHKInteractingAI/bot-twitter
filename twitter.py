@@ -103,6 +103,7 @@ def follow_tweet(driver):
                     xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
+                    log(input.text)
                     input.send_keys(info['image'])
             except Exception as e:
                     print(str(e))
@@ -113,15 +114,28 @@ def follow_tweet(driver):
             tweet = str(info['content'])
             this_hashtags = re.split(r'[,\s\n]+', info['hashtag'])
             this_hashtags = ['#' + tag if not tag.startswith('#') else tag for tag in this_hashtags]
+            hashTag = ""
+            for i in this_hashtags:
+                hashTag+=i+"\n"
+            log(hashTag)
             this_tags = re.split(r'[,\s\n]+', info['tag'])
             this_tags = ['@' + tag if not tag.startswith('@') else tag for tag in this_tags]
             # add tagname
             tweet = re.sub(r'&', lambda match: replace_and_increment(this_tags), tweet)
             # add hashtag
-            tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
-            tag_ceo = url.split('/')[-1]
+            # tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
+            try:
+                tweet = str(hashTag)+str(tweet)
+            except Exception as e:
+                print(e)
+            log(tweet)
+            try:
+                tag_ceo = url.split('/')[-1]
+                
+            except Exception as e:
+                print(e)
             if (len(tweet) + len(tag_ceo) > tweet_len_limit):
-                log_error_message(error_text, info['name'] + " too long (" + len(tweet) + len(tag_ceo) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
+                log_error_message(error_text, info['name'] + " too long (" + str(len(tweet) + len(tag_ceo) - tweet_len_limit) + ") . Limit at 280 words (include tag, hastag, space, enter)")
                 continue
             # driver.find_element(
             #         "xpath",
@@ -146,8 +160,9 @@ def follow_tweet(driver):
             ).click()
             print(f"Tweeted at profile: {url} : {tweet}")
             time.sleep(global_delay)
-        except:
+        except Exception as e:
             print(f"Failed to visit profile: {url}")
+            print(e)
             time.sleep(global_delay)
             continue
 
@@ -181,14 +196,20 @@ def personal_tweet(driver):
             tweet = str(info['content'])
             this_hashtags = re.split(r'[,\s\n]+', info['hashtag'])
             this_hashtags = ['#' + tag if not tag.startswith('#') else tag for tag in this_hashtags]
+            hashTag = ""
+            for i in this_hashtags:
+                hashTag+=i+"\n"
             this_tags = re.split(r'[,\s\n]+', info['tag'])
             this_tags = ['@' + tag if not tag.startswith('@') else tag for tag in this_tags]
             # add tagname
             tweet = re.sub(r'&', lambda match: replace_and_increment(this_tags), tweet)
+            log(tweet)
             # add hashtag
-            tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
+            # tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
+            tweet = hashTag+tweet
+            log(tweet)
             if (len(tweet) > tweet_len_limit):
-                log_error_message(error_text, "post " + info['name'] + " too long (" + len(tweet) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
+                log_error_message(error_text, "post " + str(info['name']) + " too long  . Limit at 280 words (include tag, hastag, space, enter)")
                 continue
             element = driver.find_element("class name","public-DraftEditor-content")
             element.send_keys(tweet)
@@ -252,15 +273,19 @@ def replace_and_increment(replacement_values):
         return ''
     
 def log_error_message(text_widget, message):
-    current_content = text_widget.get("1.0", tk.END).strip()
-    if message in current_content:
-        line_number = current_content.count(message) + 1
-        updated_line = f"{message} (x{line_number})"
-        text_widget.replace(f"{line_number}.0", f"{line_number + 1}.0", updated_line + "\n")
-    else:
-        text_widget.insert(tk.END, message + "\n")
-    # Scroll to the end to show the latest message
-    text_widget.see(tk.END)
+    try:
+        current_content = text_widget.get("1.0", tk.END).strip()
+    
+        if message in current_content:
+            line_number = current_content.count(message) + 1
+            updated_line = f"{message} (x{line_number})"
+            text_widget.replace(f"{line_number}.0", f"{line_number + 1}.0", updated_line + "\n")
+        else:
+            text_widget.insert(tk.END, message + "\n")
+        # Scroll to the end to show the latest message
+        text_widget.see(tk.END)
+    except Exception as e:
+        print(e)
 
 # Create tkinter window
 window = tk.Tk()
