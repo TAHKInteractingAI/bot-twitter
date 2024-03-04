@@ -1411,3 +1411,944 @@ Please donate to TAHK Foundation, then we will help you with your target:
 @levie
 @chrisdonahuey
 Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #heath #job
+2024.02.23 14:07:39 ➾ Program started
+2024.02.23 14:07:39 ➾ Twitter opened
+2024.02.23 14:07:59 ➾ Failed. Try again
+2024.02.23 14:08:15 ➾ Program started
+2024.02.23 14:08:15 ➾ Twitter opened
+2024.02.23 14:08:17 ➾ Failed. Try again
+2024.02.23 14:19:20 ➾ Program started
+2024.02.23 14:19:20 ➾ Twitter opened
+2024.02.23 14:20:50 ➾ Failed. Try again
+2024.02.23 14:43:01 ➾ Program started
+2024.02.23 14:43:01 ➾ Twitter opened
+2024.02.23 14:44:31 ➾ Failed. Try again
+2024.02.24 12:59:19 ➾ Program started
+2024.02.24 12:59:19 ➾ Twitter opened
+2024.02.24 12:59:45 ➾ Logged in!
+2024.02.24 13:02:30 ➾ Program started
+2024.02.24 13:02:30 ➾ Twitter opened
+2024.02.24 13:02:50 ➾ Logged in!
+2024.02.24 13:03:03 ➾ Visiting 3 profiles.
+2024.02.24 13:03:07 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.24 13:03:11 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.24 13:03:17 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.24 13:04:56 ➾ Visiting 3 profiles.
+2024.02.24 13:05:00 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.24 13:05:12 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.24 13:05:19 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.24 13:05:31 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.24 13:05:37 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.24 13:05:48 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.24 13:06:09 ➾ Tweeting
+2024.02.24 13:06:22 ➾ Failed to tweet
+2024.02.24 13:06:36 ➾ Failed to tweet
+2024.02.24 13:06:49 ➾ Failed to tweet
+2024.02.24 14:03:57 ➾ Program started
+2024.02.24 14:03:57 ➾ Twitter opened
+2024.02.24 14:04:17 ➾ Logged in!
+2024.02.24 14:05:34 ➾ Visiting 2 profiles.
+2024.02.24 14:05:38 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.24 14:05:43 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.24 14:07:41 ➾ Program started
+2024.02.24 14:07:41 ➾ Twitter opened
+2024.02.24 14:08:03 ➾ Logged in!
+2024.02.24 14:08:20 ➾ Visiting 2 profiles.
+2024.02.24 14:08:25 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.24 14:08:31 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.24 14:09:03 ➾ Visiting 2 profiles.
+2024.02.24 14:09:07 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.24 14:09:18 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.24 14:09:25 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.24 14:09:36 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.24 14:48:08 ➾ Program started
+2024.02.24 14:48:08 ➾ Twitter opened
+2024.02.24 14:48:26 ➾ Logged in!
+2024.02.24 14:48:55 ➾ Visiting 2 profiles.
+2024.02.24 14:49:01 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.24 14:49:05 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.24 14:50:50 ➾ Visiting 2 profiles.
+2024.02.24 14:50:56 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.24 14:51:00 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.24 14:51:22 ➾ Visiting 2 profiles.
+2024.02.24 14:51:26 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.24 14:51:38 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.24 14:51:45 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.26 22:08:18 ➾ Program started
+2024.02.26 22:08:18 ➾ Twitter opened
+2024.02.26 22:08:42 ➾ Logged in!
+2024.02.26 22:09:21 ➾ Visiting 2 profiles.
+2024.02.26 22:09:26 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.26 22:09:32 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.26 22:10:48 ➾ Visiting 2 profiles.
+2024.02.26 22:10:52 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.26 22:10:52 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.26 22:10:59 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.26 22:11:01 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.27 13:31:48 ➾ Program started
+2024.02.27 13:31:48 ➾ Twitter opened
+2024.02.27 13:32:06 ➾ Logged in!
+2024.02.27 13:35:21 ➾ Visiting 3 profiles.
+2024.02.27 13:35:26 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.27 13:35:32 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.27 13:35:38 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.27 13:36:30 ➾ Visiting 3 profiles.
+2024.02.27 13:36:35 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.27 13:36:35 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.27 13:36:43 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.27 13:36:45 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.27 13:36:52 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.27 13:36:52 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.27 13:40:17 ➾ Tweeting
+2024.02.27 13:40:31 ➾ Failed to tweet
+2024.02.27 13:53:11 ➾ Program started
+2024.02.27 13:53:11 ➾ Twitter opened
+2024.02.27 13:53:32 ➾ Logged in!
+2024.02.27 13:54:01 ➾ Visiting 3 profiles.
+2024.02.27 13:54:05 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.27 13:54:11 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.27 13:54:15 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.27 13:54:42 ➾ Visiting 3 profiles.
+2024.02.27 13:54:46 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.27 13:55:00 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.27 13:55:07 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.27 13:55:20 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.27 13:55:27 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.27 13:55:41 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.27 13:56:24 ➾ Tweeting
+2024.02.27 13:56:31 ➾ Failed to tweet
+2024.02.27 13:56:53 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.27 13:57:21 ➾ Tweeted : Is there the job of President/Chief position? 
+@Lee
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.27 14:08:08 ➾ Visiting 2 profiles.
+2024.02.27 14:08:12 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.27 14:08:17 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.27 14:08:24 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.27 14:08:30 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.27 14:11:38 ➾ Tweeting
+2024.02.27 14:11:47 ➾ Failed to tweet
+2024.02.27 14:12:10 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.27 14:14:55 ➾ Tweeting
+2024.02.27 14:15:02 ➾ Failed to tweet
+2024.02.27 14:15:22 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #club
+2024.02.27 14:25:58 ➾ Visiting 2 profiles.
+2024.02.27 14:26:02 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.27 14:26:08 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.27 14:26:20 ➾ Visiting 2 profiles.
+2024.02.27 14:26:24 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.27 14:26:30 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.27 14:26:37 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.27 14:26:42 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.28 13:34:04 ➾ Program started
+2024.02.28 13:34:04 ➾ Twitter opened
+2024.02.28 13:34:22 ➾ Logged in!
+2024.02.28 13:36:05 ➾ Visiting 2 profiles.
+2024.02.28 13:36:10 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 13:36:16 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 13:37:44 ➾ Visiting 2 profiles.
+2024.02.28 13:37:48 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 13:38:04 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 13:38:11 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 13:38:16 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.28 13:42:37 ➾ Tweeting
+2024.02.28 13:42:54 ➾ Tweeted : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 13:43:16 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #club
+2024.02.28 13:48:10 ➾ Visiting 2 profiles.
+2024.02.28 13:48:13 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 13:48:28 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 13:48:35 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 13:48:40 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.28 13:49:51 ➾ Visiting 2 profiles.
+2024.02.28 13:49:55 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 13:50:09 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 13:50:16 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 13:50:32 ➾ Tweeted at profile: https://x.com/ManUtd?s=20 : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #club
+2024.02.28 13:53:04 ➾ Visiting 2 profiles.
+2024.02.28 13:53:08 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 13:53:26 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 13:53:32 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 13:53:38 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.28 13:58:36 ➾ Program started
+2024.02.28 13:58:36 ➾ Twitter opened
+2024.02.28 13:58:53 ➾ Logged in!
+2024.02.28 13:59:05 ➾ Visiting 2 profiles.
+2024.02.28 13:59:10 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 13:59:27 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 13:59:34 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 13:59:39 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.28 14:00:52 ➾ Visiting 2 profiles.
+2024.02.28 14:00:56 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 14:01:10 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 14:01:17 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 14:01:22 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.28 14:02:29 ➾ Visiting 2 profiles.
+2024.02.28 14:02:33 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 14:02:47 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 14:02:54 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 14:03:09 ➾ Tweeted at profile: https://x.com/ManUtd?s=20 : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.28 14:04:57 ➾ Tweeting
+2024.02.28 14:05:15 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:05:25 ➾ Failed to tweet
+2024.02.28 14:05:43 ➾ Tweeting
+2024.02.28 14:06:03 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:06:13 ➾ Failed to tweet
+2024.02.28 14:13:58 ➾ Program started
+2024.02.28 14:13:58 ➾ Twitter opened
+2024.02.28 14:14:18 ➾ Logged in!
+2024.02.28 14:14:28 ➾ Tweeting
+2024.02.28 14:14:48 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:14:59 ➾ Failed to tweet
+2024.02.28 14:34:51 ➾ Tweeting
+2024.02.28 14:35:11 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:35:21 ➾ Failed to tweet
+2024.02.28 14:36:34 ➾ Tweeting
+2024.02.28 14:36:41 ➾ Tweeting
+2024.02.28 14:36:54 ➾ Tweeting
+2024.02.28 14:37:10 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:37:29 ➾ Tweeted : Hi
+@HaoNam19307
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #club 
+2024.02.28 14:41:36 ➾ Tweeting
+2024.02.28 14:41:55 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:42:05 ➾ Failed to tweet
+2024.02.28 14:43:13 ➾ Program started
+2024.02.28 14:43:13 ➾ Twitter opened
+2024.02.28 14:43:30 ➾ Logged in!
+2024.02.28 14:43:44 ➾ Tweeting
+2024.02.28 14:44:06 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:44:17 ➾ Failed to tweet
+2024.02.28 14:48:57 ➾ Tweeting
+2024.02.28 14:49:16 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:49:26 ➾ Failed to tweet
+2024.02.28 14:50:55 ➾ Program started
+2024.02.28 14:50:55 ➾ Twitter opened
+2024.02.28 14:51:20 ➾ Logged in!
+2024.02.28 14:51:33 ➾ Tweeting
+2024.02.28 14:51:50 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:54:12 ➾ Tweeting
+2024.02.28 14:54:30 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:54:49 ➾ Tweeted : Is there the job of President/Chief position?  @HaoNam19307
+               Please donate to TAHK Foundation, then we will help you with your target:  
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #club
+2024.02.28 14:57:35 ➾ Tweeting
+2024.02.28 14:57:54 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 14:59:02 ➾ Tweeting
+2024.02.28 14:59:21 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 15:50:11 ➾ Program started
+2024.02.28 15:50:11 ➾ Twitter opened
+2024.02.28 15:50:42 ➾ Logged in!
+2024.02.28 15:50:57 ➾ Visiting 2 profiles.
+2024.02.28 15:51:03 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 15:51:22 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 15:51:29 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 15:51:46 ➾ Tweeted at profile: https://x.com/ManUtd?s=20 : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.28 15:54:32 ➾ Visiting 2 profiles.
+2024.02.28 15:54:36 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.28 15:54:53 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.28 15:55:00 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.28 15:55:06 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.28 15:55:28 ➾ Tweeting
+2024.02.28 15:55:50 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:01:55 ➾ Tweeting
+2024.02.28 16:02:22 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #club
+2024.02.28 16:05:15 ➾ Tweeting
+2024.02.28 16:05:35 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:06:57 ➾ Tweeting
+2024.02.28 16:07:17 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:07:36 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #club
+2024.02.28 16:08:20 ➾ Tweeting
+2024.02.28 16:08:39 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:11:22 ➾ Tweeting
+2024.02.28 16:11:41 ➾ Tweeted : Is there the job of President/Chief position? 
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:14:31 ➾ Tweeting
+2024.02.28 16:14:49 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:16:12 ➾ Tweeting
+2024.02.28 16:16:30 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:22:42 ➾ Tweeting
+2024.02.28 16:23:02 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.28 16:25:11 ➾ Tweeting
+2024.02.28 16:25:36 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 13:33:22 ➾ Program started
+2024.02.29 13:33:22 ➾ Twitter opened
+2024.02.29 13:33:39 ➾ Logged in!
+2024.02.29 13:35:15 ➾ Visiting 2 profiles.
+2024.02.29 13:35:21 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:35:27 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.29 13:35:31 ➾ Visiting 2 profiles.
+2024.02.29 13:35:35 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:35:52 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.29 13:35:59 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.29 13:36:04 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.29 13:36:43 ➾ Visiting 2 profiles.
+2024.02.29 13:36:46 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:37:03 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.29 13:37:10 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.29 13:37:28 ➾ Tweeted at profile: https://x.com/ManUtd?s=20 : Is there the job of President/Chief position?
+@premierleague
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #MUFC
+2024.02.29 13:37:35 ➾ Tweeting
+2024.02.29 13:37:56 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 13:38:16 ➾ Tweeted : Is there the job of President/Chief position?
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #club
+2024.02.29 13:47:43 ➾ Visiting 2 profiles.
+2024.02.29 13:47:47 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:48:03 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Hi
+@levie
+@annn
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #player #legend
+2024.02.29 13:48:10 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.29 13:48:15 ➾ Failed to visit profile: https://x.com/ManUtd?s=20
+2024.02.29 13:53:08 ➾ Program started
+2024.02.29 13:53:08 ➾ Twitter opened
+2024.02.29 13:53:31 ➾ Logged in!
+2024.02.29 13:54:06 ➾ Visiting 2 profiles.
+2024.02.29 13:54:11 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:54:16 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:54:24 ➾ Followed profile: https://x.com/ManUtd?s=20
+2024.02.29 13:54:41 ➾ Tweeted at profile: https://x.com/ManUtd?s=20 : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 13:58:28 ➾ Visiting 2 profiles.
+2024.02.29 13:58:31 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:58:37 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.02.29 13:58:43 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 13:59:00 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 14:00:59 ➾ Visiting 2 profiles.
+2024.02.29 14:01:03 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:01:18 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 14:01:24 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 14:01:40 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 14:03:03 ➾ Visiting 2 profiles.
+2024.02.29 14:03:07 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:03:19 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 14:03:25 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 14:03:38 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 14:03:55 ➾ Tweeting
+2024.02.29 14:04:11 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 14:04:27 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 14:06:59 ➾ Visiting 2 profiles.
+2024.02.29 14:07:04 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:07:17 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 14:07:24 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 14:07:38 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 14:36:46 ➾ Program started
+2024.02.29 14:36:46 ➾ Twitter opened
+2024.02.29 14:37:04 ➾ Logged in!
+2024.02.29 14:37:20 ➾ Visiting 2 profiles.
+2024.02.29 14:37:25 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:37:37 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 14:37:44 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 14:37:57 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 14:40:03 ➾ Visiting 2 profiles.
+2024.02.29 14:40:07 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:40:20 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 14:40:27 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 14:40:39 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 14:48:11 ➾ Visiting 2 profiles.
+2024.02.29 14:48:15 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:48:28 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 14:48:35 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 14:48:49 ➾ Failed to visit profile: https://twitter.com/ManUtd
+2024.02.29 14:52:12 ➾ Program started
+2024.02.29 14:52:12 ➾ Twitter opened
+2024.02.29 14:52:37 ➾ Logged in!
+2024.02.29 14:52:57 ➾ Visiting 2 profiles.
+2024.02.29 14:53:03 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:53:16 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 14:53:22 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 14:53:36 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 14:59:35 ➾ Visiting 2 profiles.
+2024.02.29 14:59:40 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 14:59:53 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 15:00:00 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 15:00:13 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 15:03:55 ➾ Visiting 2 profiles.
+2024.02.29 15:03:59 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 15:04:13 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 15:04:20 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 15:04:32 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 15:55:38 ➾ Program started
+2024.02.29 15:55:38 ➾ Twitter opened
+2024.02.29 15:55:48 ➾ Program started
+2024.02.29 15:55:48 ➾ Twitter opened
+2024.02.29 15:56:09 ➾ Logged in!
+2024.02.29 15:56:24 ➾ Visiting 2 profiles.
+2024.02.29 15:56:28 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 15:56:41 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 15:56:48 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 15:57:01 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:00:51 ➾ Visiting 2 profiles.
+2024.02.29 16:00:55 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:01:08 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:01:14 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:01:27 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:06:54 ➾ Visiting 2 profiles.
+2024.02.29 16:06:59 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:07:13 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:07:20 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:07:33 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:08:00 ➾ Visiting 2 profiles.
+2024.02.29 16:08:04 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:08:17 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:08:23 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:08:38 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:10:17 ➾ Visiting 2 profiles.
+2024.02.29 16:10:21 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:10:34 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:10:40 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:10:54 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:13:05 ➾ Program started
+2024.02.29 16:13:05 ➾ Twitter opened
+2024.02.29 16:13:24 ➾ Logged in!
+2024.02.29 16:13:39 ➾ Visiting 2 profiles.
+2024.02.29 16:13:43 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:14:05 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:14:11 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:14:25 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:18:58 ➾ Visiting 2 profiles.
+2024.02.29 16:19:02 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:19:16 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:19:22 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:19:37 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:20:50 ➾ Tweeting
+2024.02.29 16:21:09 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:21:28 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 16:24:50 ➾ Visiting 2 profiles.
+2024.02.29 16:24:55 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:25:09 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:25:16 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:25:32 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 16:26:25 ➾ Visiting 2 profiles.
+2024.02.29 16:26:29 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 16:26:43 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 16:26:49 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 16:27:05 ➾ Failed to visit profile: https://twitter.com/ManUtd
+2024.02.29 22:04:12 ➾ Program started
+2024.02.29 22:04:12 ➾ Twitter opened
+2024.02.29 22:04:29 ➾ Logged in!
+2024.02.29 22:04:59 ➾ Visiting 2 profiles.
+2024.02.29 22:05:06 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 22:05:30 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:05:36 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 22:05:50 ➾ Tweeted at profile: https://twitter.com/ManUtd : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 22:07:11 ➾ Tweeting
+2024.02.29 22:07:27 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:07:47 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 22:07:56 ➾ Visiting 2 profiles.
+2024.02.29 22:08:00 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 22:08:14 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:08:21 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 22:08:35 ➾ Tweeted at profile: https://twitter.com/ManUtd : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 22:09:22 ➾ Tweeting
+2024.02.29 22:09:40 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:10:00 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 22:11:12 ➾ Visiting 3 profiles.
+2024.02.29 22:11:16 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 22:11:30 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:11:36 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 22:11:50 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 22:11:57 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.29 22:12:12 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 22:12:21 ➾ Tweeting
+2024.02.29 22:12:38 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:12:58 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.02.29 22:13:17 ➾ Tweeted : Hi
+@Lee
+@HaoNam19307
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #tweet 
+2024.02.29 22:32:48 ➾ Program started
+2024.02.29 22:32:48 ➾ Twitter opened
+2024.02.29 22:33:03 ➾ Logged in!
+2024.02.29 22:33:14 ➾ Visiting 2 profiles.
+2024.02.29 22:33:19 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 22:33:38 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:33:44 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 22:33:59 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 22:57:31 ➾ Visiting 2 profiles.
+2024.02.29 22:57:36 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.02.29 22:57:51 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:57:58 ➾ Followed profile: https://twitter.com/ManUtd
+2024.02.29 22:58:12 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.02.29 22:58:17 ➾ Tweeting
+2024.02.29 22:58:37 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.02.29 22:58:56 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.03.01 13:32:09 ➾ Program started
+2024.03.01 13:32:09 ➾ Twitter opened
+2024.03.01 13:32:32 ➾ Logged in!
+2024.03.01 13:34:21 ➾ Visiting 2 profiles.
+2024.03.01 13:34:25 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.03.01 13:34:31 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.03.01 13:34:38 ➾ Followed profile: https://twitter.com/ManUtd
+2024.03.01 13:34:53 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.03.01 13:35:59 ➾ Visiting 2 profiles.
+2024.03.01 13:36:03 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.03.01 13:36:08 ➾ Failed to visit profile: https://x.com/WayneRooney?s=20
+2024.03.01 13:36:15 ➾ Followed profile: https://twitter.com/ManUtd
+2024.03.01 13:36:32 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.03.01 13:37:08 ➾ Visiting 2 profiles.
+2024.03.01 13:37:12 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.03.01 13:37:28 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levii
+@anna
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.03.01 13:37:35 ➾ Followed profile: https://twitter.com/ManUtd
+2024.03.01 13:37:49 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.03.01 13:37:53 ➾ Tweeting
+2024.03.01 13:38:13 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.03.01 13:38:34 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+2024.03.01 22:42:18 ➾ Program started
+2024.03.01 22:42:18 ➾ Twitter opened
+2024.03.01 22:42:39 ➾ Logged in!
+2024.03.01 22:42:49 ➾ Visiting 2 profiles.
+2024.03.01 22:42:54 ➾ Followed profile: https://x.com/WayneRooney?s=20
+2024.03.01 22:43:11 ➾ Tweeted at profile: https://x.com/WayneRooney?s=20 : Is there the job of President/Chief position?
+@levii
+@anna
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.03.01 22:43:17 ➾ Followed profile: https://twitter.com/ManUtd
+2024.03.01 22:43:30 ➾ Tweeted at profile: https://twitter.com/ManUtd : Hi
+@premierleague
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #MUFC 
+2024.03.01 22:43:34 ➾ Tweeting
+2024.03.01 22:43:51 ➾ Tweeted : Is there the job of President/Chief position?
+@levie
+@annn
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation. #player
+2024.03.01 22:44:13 ➾ Tweeted : Is there the job of President/Chief position?
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service

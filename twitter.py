@@ -27,7 +27,7 @@ try:
     WebDriverWait(driver, 90).until(EC.url_to_be("https://twitter.com/home"))
     log("Logged in!")
 except:
-    log(f"Failed. Try again")   
+    log(f"Failed. Try again")
 
 def run(command):  # follow the person only
     switch_dict = {
@@ -101,10 +101,11 @@ def follow_tweet(driver):
                 time.sleep(2)
             except:
                 log(f"Followed profile: {url}")
-
+            
             driver.find_element(
                 "xpath",
                 "/html/body/div[1]/div/div/div[2]/header/div/div/div/div[1]/div[3]/a/div",
+                #"/html/body/div[1]/div/div/div[2]/header/div/div/div/div[1]/div[1]/h1/a/div/svg",
             ).click()
             time.sleep(2)
             
@@ -114,10 +115,10 @@ def follow_tweet(driver):
                     xpat2 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[3]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     xpat3 = "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[4]/div[1]/div/div/div/div[2]/div[2]/div/div/nav/div/div[2]/div/div[1]/div/input"
                     input = find_element_in_list(driver, [xpat1, xpat2, xpat3], 2)
-                    input.send_keys(fr'{images[i]}')
+                    input.send_keys(fr'{images[index]}')
             except Exception as e:
                     print(str(e))
-                    print('can not find image ' + fr'{images[i]}')
+                    print('can not find image ' + fr'{images[index]}')
             time.sleep(3)
 
             # Add content to twitter post
@@ -136,7 +137,7 @@ def follow_tweet(driver):
                 continue
             driver.find_element(
                     "xpath",
-                    "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span[2]/span",
+                    "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div/div/div/div/label/div[1]/div/div/div/div/div/div/div/div/div/div/span",
                 ).send_keys(tweet)
             time.sleep(2)
             try:
@@ -148,7 +149,7 @@ def follow_tweet(driver):
             except:
                 print('dropdown hidden')
             time.sleep(2)
-
+        
             driver.find_element(
                 "xpath",
                 "/html/body/div[1]/div/div/div[1]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[2]/div[1]/div/div/div/div[2]/div[2]/div/div/div/div[4]",
@@ -207,7 +208,7 @@ def personal_tweet(driver):
             # add hashtag
             tweet = re.sub(r'#', lambda match: replace_and_increment(this_hashtags), tweet)
             if (len(tweet) > tweet_len_limit):
-                log_error_message(error_text, "post " + tweets_names[i] + " too long (" + len(tweet) - tweet_len_limit + ") . Limit at 280 words (include tag, hastag, space, enter)")
+                log_error_message(error_text, "post " + tweets_names[i] + " too long (" + str(len(tweet) - tweet_len_limit) + ") . Limit at 280 words (include tag, hastag, space, enter)")
                 continue
             driver.find_element(
                     "xpath",
@@ -310,3 +311,5 @@ scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
 error_text.config(yscrollcommand=scrollbar.set)
 
 window.mainloop()
+
+
