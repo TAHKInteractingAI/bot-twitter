@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ('C:\\Program Files\\Python311\\tcl\\tcl8.6\\..\\tcl8',
  'tcl8',
  [],
@@ -18,4 +19,27 @@
   ('tcl8\\8.4\\platform\\shell-1.1.4.tm',
    'C:\\Program '
    'Files\\Python311\\tcl\\tcl8.6\\..\\tcl8\\8.4\\platform\\shell-1.1.4.tm',
+=======
+('D:/anaconda/envs/pygdal/Library/lib/tcl8.6\\..\\tcl8',
+ 'tcl8',
+ [],
+ 'DATA',
+ [('tcl8\\8.6\\http-2.9.8.tm',
+   'D:/anaconda/envs/pygdal/Library/lib/tcl8.6\\..\\tcl8\\8.6\\http-2.9.8.tm',
+   'DATA'),
+  ('tcl8\\8.6\\tdbc\\sqlite3-1.1.5.tm',
+   'D:/anaconda/envs/pygdal/Library/lib/tcl8.6\\..\\tcl8\\8.6\\tdbc\\sqlite3-1.1.5.tm',
+   'DATA'),
+  ('tcl8\\8.5\\msgcat-1.6.1.tm',
+   'D:/anaconda/envs/pygdal/Library/lib/tcl8.6\\..\\tcl8\\8.5\\msgcat-1.6.1.tm',
+   'DATA'),
+  ('tcl8\\8.5\\tcltest-2.5.5.tm',
+   'D:/anaconda/envs/pygdal/Library/lib/tcl8.6\\..\\tcl8\\8.5\\tcltest-2.5.5.tm',
+   'DATA'),
+  ('tcl8\\8.4\\platform-1.0.19.tm',
+   'D:/anaconda/envs/pygdal/Library/lib/tcl8.6\\..\\tcl8\\8.4\\platform-1.0.19.tm',
+   'DATA'),
+  ('tcl8\\8.4\\platform\\shell-1.1.4.tm',
+   'D:/anaconda/envs/pygdal/Library/lib/tcl8.6\\..\\tcl8\\8.4\\platform\\shell-1.1.4.tm',
+>>>>>>> 5dc0dfbe37f9ca14c688dd5cd4748a16c35bf24c
    'DATA')])
