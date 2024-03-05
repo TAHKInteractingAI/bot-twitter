@@ -41,7 +41,7 @@ C. Thêm hình ảnh cho bài tweet.
 	hoặc lấy đường dẫn theo cách nào khác bạn biết
 	- Chỉ thêm được 1 hình ảnh cho 1 bài viết
 
-2. Chạy file twitter.exe nằm ở cùng folder.
+2. Chạy file twitter.exe nằm trong folder "dist".
    Một trình duyệt sẽ xuất hiện, hãy đăng nhập vào twitter.
    Sau khi đăng nhập thành công sẽ xuất hiện cửa sổ dưới
 
